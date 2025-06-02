@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import { Link } from "react-scroll";
 import Button from "../components/Button";
 import SolutionBlock from "../components/SolutionBlock";
 import Offer from "../components/Offer";
