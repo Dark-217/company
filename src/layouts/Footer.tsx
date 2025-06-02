@@ -18,7 +18,6 @@ const Footer = () => {
                   <img src={logo} alt="logo" />
                 </Link>
               </ArchorLink>
-              <p className="mt-3 text-[#b3b3b3]">{t("footer.description")}</p>
               <div className="flex justify-between items-center h-10 w-[200px] mt-2.5">
                 <Link
                   className="h-full"
