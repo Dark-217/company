@@ -20,19 +20,19 @@ body {
       rgba(0, 0, 0, 0.75),
       rgba(0, 0, 0, 0.75)
     ),
-    url("images/contact.jpg");
+    url("/images/contact.jpg");
   --work-gradient-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.4),
       rgba(0, 0, 0, 0.4)
     ),
-    url("images/home/image2.jpg");
+    url("/images/home/image2.jpg");
   --counter-gradient-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("images/home/image7.jpg");
+    url("/images/home/image7.jpg");
 }
 
 * {

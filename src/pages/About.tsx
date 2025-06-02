@@ -176,7 +176,7 @@ const About = () => {
                 </Button>
               </div>
             </div>
-            <div className="bg-[url(images/about/image1.jpg)] bg-position-(--about-bg-position) bg-cover bg-no-repeat min-w-full md:min-w-[58%] max-w-[58%] min-h-[349px] sm:min-h-[554px] md:min-h-[406px] lg:min-h-[530px] xl:min-h-[657px]"></div>
+            <div className="bg-[url(/images/about/image1.jpg)] bg-position-(--about-bg-position) bg-cover bg-no-repeat min-w-full md:min-w-[58%] max-w-[58%] min-h-[349px] sm:min-h-[554px] md:min-h-[406px] lg:min-h-[530px] xl:min-h-[657px]"></div>
           </div>
         </div>
       </section>

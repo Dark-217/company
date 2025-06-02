@@ -120,7 +120,7 @@ const Header = () => {
           <Menu as="div" className="relative leading-0">
             <MenuButton className="w-6 h-6 outline-none cursor-pointer">
               <img
-                src={`https://media.flaticon.com/dist/min/img/flags/${flag}.svg`}
+                src={`https://media.flaticon.com/dist/min/img/flags/${flag==="en-US"?"en":flag}.svg`}
                 alt="language flag"
               />
             </MenuButton>
