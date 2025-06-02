@@ -1,0 +1,320 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "service": "Service",
+    "career": "Carrière",
+    "portfolio": "Portfolio",
+    "team": "Équipe",
+    "about": "À propos"
+  },
+  "home": {
+    "section1": {
+      "title": "Solutions Innovantes",
+      "description": "Que vous remplaciez un système hérité ou développiez une nouvelle application d'entreprise, nous pouvons créer une solution logicielle personnalisée qui convient le mieux à votre entreprise."
+    },
+    "section2": {
+      "title": "Services de l'Entreprise",
+      "services": {
+        "service1": {
+          "title": "Recrutement Technique",
+          "description": "Embauchez des professionnels ingénieurs fiables et expérimentés pour vos projets temporaires ou permanents."
+        },
+        "service2": {
+          "title": "Développement Mobile",
+          "description": "Résolvez les problèmes commerciaux avec la technologie mobile. Créez une application grand public ou d'entreprise développée par notre équipe."
+        },
+        "service3": {
+          "title": "Intelligence Artificielle",
+          "description": "Créez des outils et applications d'intelligence artificielle (IA) avec les meilleurs développeurs pour vos besoins."
+        },
+        "service4": {
+          "title": "Développement Web",
+          "description": "Créez une application web innovante qui alimente votre entreprise grâce au développement web personnalisé."
+        }
+      }
+    },
+    "section3": {
+      "caption": "à propos de l'agence numérique",
+      "title": "Stratégie, conception, contenu et technologie"
+    },
+    "section4": {
+      "title": "Nous travaillons avec la recherche utilisateur, la conception UX, l'UI et l'ingénierie",
+      "works": {
+        "work1": {
+          "title": "Conception",
+          "data1": "Maquette de Produit",
+          "data2": "Image de Marque",
+          "data3": "Illustrations",
+          "data4": "UI/UX",
+          "data5": "Sites Web"
+        },
+        "work2": {
+          "title": "Conception Web",
+          "data1": "Prototype",
+          "data2": "UI/UX",
+          "data3": "Rédaction de Contenu",
+          "data4": "Hébergement de Site Web",
+          "data5": "Analyse de Site Web"
+        },
+        "work3": {
+          "title": "Développement",
+          "data1": "WordPress",
+          "data2": "Développement d'Application",
+          "data3": "Front-end",
+          "data4": "Javascript"
+        },
+        "work4": {
+          "title": "Image de Marque",
+          "data1": "Audit de l'équité de marque",
+          "data2": "Analyse de l'audience",
+          "data3": "Analyse concurrentielle",
+          "data4": "Direction stratégique",
+          "data5": "Positionnement visuel"
+        }
+      }
+    },
+    "section5": {
+      "title": "Ce que nous faisons",
+      "description": "Nous offrons des services informatiques gérés et des services de cybersécurité pour aider les organisations à réduire les coûts informatiques et les temps d'arrêt, augmenter l'efficacité jusqu'à 40%, et protéger contre les cyberattaques."
+    },
+    "section6": {
+      "title": "Rencontrez Notre Équipe"
+    },
+    "section7": {
+      "counter1": "clients satisfaits",
+      "counter2": "projets",
+      "counter3": "tasses de café",
+      "counter4": "récompenses"
+    }
+  },
+  "service": {
+    "section2": {
+      "title": "Solutions Technologiques d'Entreprise",
+      "caption": "Plateforme Technologique d'Entreprise",
+      "solutions": {
+        "solution1": {
+          "title": "Analyses",
+          "data1": "Rationaliser les processus d'analyse",
+          "data2": "Intégrer la BI et la planification prédictive",
+          "data3": "Transformer les insights en action",
+          "data4": "Visualiser vos décisions"
+        },
+        "solution2": {
+          "title": "Technologies",
+          "data1": "Accéder aux applications cloud basées sur l'IA et les données",
+          "data2": "Intégrer l'intelligence dans les processus",
+          "data3": "Conduire l'innovation de bout en bout",
+          "data4": "Faire évoluer votre plateforme"
+        }
+      }
+    },
+    "section3": {
+      "title": "Quels services offrons-nous ?",
+      "offers": {
+        "offer1": {
+          "title": "Évaluation",
+          "description": "Notre équipe effectuera une évaluation de votre application logicielle existante pour identifier les problèmes techniques sous-jacents, les domaines d'amélioration, les opportunités d'optimisation et les risques potentiels. La portée de l'Évaluation Logicielle est adaptée à vos besoins individuels mais peut inclure une analyse de l'architecture de l'application, la qualité du code, les performances, la sécurité et la maintenabilité."
+        },
+        "offer2": {
+          "title": "Sauvetage de Projet",
+          "description": "Les projets peuvent échouer en raison de divers facteurs, tels que la qualité de travail médiocre, les défis de ressources, un processus de développement inadéquat et le manque de gestion des exigences. Notre service de Sauvetage de Projet est une solution spécialisée conçue pour aider les clients confrontés à des difficultés avec leurs projets logiciels en cours. Notre équipe peut intervenir pour identifier les problèmes et élaborer un plan stratégique pour remettre votre projet sur la bonne voie."
+        },
+        "offer3": {
+          "title": "Support",
+          "description": "Si vous avez une application existante et avez besoin d'un partenaire fiable pour la maintenir et l'étendre dans le temps, nos programmes de Support Logiciel offrent la flexibilité dont vous avez besoin. EQ TECH Solutions propose trois programmes de support, permettant aux clients de basculer entre eux selon les besoins. Notre équipe expérimentée de développeurs et gestionnaires assure la continuité des affaires, éliminant les préoccupations concernant la dépendance à une seule ressource."
+        }
+      }
+    },
+    "section5": {
+      "title": "Solutions innovantes",
+      "description": "Que vous ayez besoin d'externaliser votre projet ou d'embaucher des professionnels technologiques qualifiés, EQ TECH Solutions peut vous aider."
+    },
+    "section6": {
+      "title": "Nos Atouts Clés",
+      "counters": {
+        "counter1": "consultants",
+        "counter2": "bureaux",
+        "counter3": "clients réguliers"
+      }
+    },
+    "section7": {
+      "title": "Nous résolvons des problèmes complexes",
+      "description": "Expertise métier et équipes dédiées pour répondre aux besoins spécifiques de chaque client"
+    }
+  },
+  "career": {
+    "section3": {
+      "title": "Offres d'Emploi Actuelles"
+    }
+  },
+  "portfolio": {
+    "section1": {
+      "title": "Conseil en Stratégie et Gestion",
+      "description": "La technologie continue d'évoluer à un rythme rapide et joue un rôle critique dans l'atteinte des objectifs organisationnels et la création d'un avantage concurrentiel. Le succès de toute initiative technologique dépend d'avoir une stratégie gagnante, une conception bien conçue et une approche d'implémentation méthodique."
+    },
+    "section2": {
+      "title": "Nous résolvons des problèmes complexes",
+      "description": "Expertise métier et équipes dédiées pour répondre aux besoins spécifiques de chaque client"
+    },
+    "section3": {
+      "title": "Projets de conseil",
+      "description": "Nos consultants travaillent de manière hautement collaborative pour intégrer et soutenir votre leadership interne et vos processus métier.",
+      "projects": {
+        "project1": {
+          "title": "Transformation d'Entreprise",
+          "description": "Nous aidons les organisations à redéfinir leurs stratégies, processus et technologies pour réaliser des transformations agiles, évolutives et axées sur les données qui stimulent la croissance et l'efficacité opérationnelle."
+        },
+        "project2": {
+          "title": "Coaching",
+          "description": "Nos programmes de coaching permettent aux équipes de direction et aux employés d'améliorer leurs performances, d'embrasser l'innovation et de diriger avec confiance dans un paysage numérique en évolution rapide."
+        },
+        "project3": {
+          "title": "Stratégie de Croissance",
+          "description": "Nous concevons des stratégies de croissance basées sur les données qui identifient de nouvelles opportunités de marché, améliorent le positionnement concurrentiel et accélèrent la génération de revenus."
+        },
+        "project4": {
+          "title": "Développement",
+          "description": "Des plateformes web aux systèmes d'entreprise, nous construisons des applications sécurisées, évolutives et performantes adaptées à vos besoins commerciaux uniques et aux attentes des utilisateurs."
+        },
+        "project5": {
+          "title": "Analyse Concurrentielle",
+          "description": "Nos experts mènent des recherches de marché approfondies pour évaluer votre position dans l'industrie, comparer les concurrents et identifier des insights exploitables pour obtenir un avantage concurrentiel."
+        },
+        "project6": {
+          "title": "Conseil en Marketing",
+          "description": "Nous développons des stratégies de marketing numérique ciblées, optimisons les entonnoirs de conversion et élevons la visibilité de la marque pour vous aider à atteindre le bon public avec un impact mesurable."
+        },
+        "project7": {
+          "title": "Finance d'Entreprise",
+          "description": "Nous fournissons des services de modélisation financière, de budgétisation et d'évaluation pour vous aider à prendre des décisions d'investissement éclairées et assurer la stabilité financière à long terme."
+        },
+        "project8": {
+          "title": "Marketing et Ventes",
+          "description": "Nous alignons les stratégies de vente et de marketing avec le comportement client et les analyses, créant des campagnes à fort impact qui convertissent les prospects en clients fidèles."
+        },
+        "project9": {
+          "title": "Stratégie Humaine",
+          "description": "Nos experts RH et organisationnels vous aident à construire des stratégies de main-d'œuvre qui améliorent la culture, l'acquisition de talents, la gestion des performances et la rétention des employés."
+        }
+      }
+    },
+    "section4": {
+      "counter1": "spécialistes",
+      "counter2": "clients satisfaits",
+      "counter3": "cas de succès",
+      "counter4": "récompenses"
+    }
+  },
+  "team": {
+    "section1": {
+      "title": "Notre Personnel",
+      "description": "Que vous ayez besoin d'externaliser votre projet ou d'embaucher des professionnels technologiques qualifiés, EQ TECH Solutions peut vous aider. En tant qu'entreprise de développement logiciel leader basée à l'origine à Atlanta, nous avons plus de 25 ans d'expérience dans l'aide à nos clients pour réussir."
+    },
+    "section2": {
+      "text": "Nous apportons une perspective fraîche et une énergie contagieuse à chaque relation client. Notre accent sur le travail d'équipe, la confiance et la tolérance pour les opinions divergentes aide les clients à se concentrer sur leurs opportunités, développer leurs capacités et gagner l'avenir. Ensemble, nous obtenons des résultats qui font le pont entre ce qui est et ce qui peut être."
+    },
+    "section3": {
+      "title": "Notre Direction et Notre Personnel"
+    },
+    "section4": {
+      "title": "Nous travaillons comme une équipe mondiale unique pour vous aider à réaliser l'extraordinaire",
+      "description": "Nous adoptons toujours une approche personnalisée pour trouver les solutions de dotation informatique dont vous avez besoin. Peu importe si vous construisez une équipe à partir de zéro ou avez besoin d'un support immédiat de professionnels informatiques hautement qualifiés, EQ TECH Solutions peut être là pour soutenir des projets grands et petits.",
+      "comment": "Nous travaillons ensemble de manière transparente comme une seule entreprise pour servir nos clients partout où ils ont besoin de nous. Avec 64 bureaux dans 39 pays à travers le monde, nous mettons nos connaissances collectives, notre expérience et notre réseau mondial à la disposition de nos clients.",
+      "subDescription": "Quand vous avez besoin de solutions de dotation informatique, vous pouvez faire confiance à EQ TECH Solutions pour vous aider. Alors que d'autres agences de dotation ratissent large en matière de recrutement, nous nous spécialisons dans le recrutement technique. EQ TECH Solutions comprend parfaitement les talents technologiques dont les entreprises ont besoin car nous sommes aussi une entreprise de développement logiciel. Avec des années d'expérience en informatique, nous apportons à votre organisation notre expertise que d'autres entreprises de dotation ne peuvent pas offrir."
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "Nous conseillons les dirigeants sur la stratégie"
+    },
+    "section2": {
+      "title": "L'idée qui nous motive en tant que consultants en gestion",
+      "description": "Nos consultants travaillent de manière hautement collaborative pour intégrer et soutenir votre leadership interne et vos processus métier.",
+      "projects": {
+        "project1": {
+          "title": "Qui nous sommes",
+          "description": "Texte d'exemple. Cliquez pour sélectionner l'Élément Texte."
+        },
+        "project2": {
+          "title": "Nos valeurs",
+          "description": "Texte d'exemple. Cliquez pour sélectionner l'Élément Texte."
+        },
+        "project3": {
+          "title": "Notre personnel",
+          "description": "Texte d'exemple. Cliquez pour sélectionner l'Élément Texte."
+        }
+      }
+    },
+    "section3": {
+      "title": "Services de l'Entreprise",
+      "services": {
+        "service1": {
+          "title": "Conception UX",
+          "description": "Nos concepteurs d'expérience utilisateur et architectes de solutions travaillent en collaboration pour concevoir les éléments visuels et interactifs de votre projet."
+        },
+        "service2": {
+          "title": "Conception de Solution",
+          "description": "Nous croyons que les projets logiciels personnalisés réussis commencent par une compréhension approfondie des objectifs et exigences commerciaux de nos clients."
+        },
+        "service3": {
+          "title": "Conception Technique",
+          "description": "Nous sommes fiers de développer des logiciels personnalisés qui sont à la fois efficaces et durables, fournissant aux clients une solution fiable et évolutive."
+        },
+        "service4": {
+          "title": "Définition de Portée de Projet",
+          "description": "Le résultat de cet effort de définition de portée est un document de portée qui décrit les objectifs globaux du projet, la solution technique anticipée et les prévisions de calendrier."
+        }
+      }
+    },
+    "section4": {
+      "title": "Chaque grande entreprise est motivée par une idée",
+      "description": "Obtenez un avantage concurrentiel dans votre industrie avec les services de développement logiciel personnalisé d'EQ TECH Solutions."
+    },
+    "section5": {
+      "comment": "Naviguer les transitions qui façonnent l'industrie comme la circularité avec mes clients, et transformer celles-ci en opportunités, c'est pourquoi je fais ce travail. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Merrill Smith",
+      "role": "Partenaire"
+    },
+    "section6": {
+      "title": "Ce en quoi nous croyons",
+      "description": "Notre mission est d'impacter les vies touchées par la technologie. À cette fin, notre vision est d'aider 6 000 entreprises à réaliser leurs objectifs grâce à la technologie."
+    }
+  },
+  "contact": {
+    "description": "Remplissez le formulaire et notre équipe vous recontactera dès que possible !",
+    "label1": "Adresse",
+    "address": "New York, États-Unis",
+    "label2": "Téléphone",
+    "phone": "+1 234-567-890",
+    "label3": "Horaires",
+    "hours": "6h00 - 2h00",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer"
+    }
+  },
+  "footer": {
+    "description": "Texte d'exemple. Cliquez pour sélectionner l'Élément Texte.",
+    "getInTouch": "Entrer en contact",
+    "ouickLinks": "Liens rapides",
+    "support": "Support"
+  },
+  "gotProject": {
+    "title1": "Vous avez un projet ?",
+    "title2": "Parlons-en",
+    "description": "Nous vous aiderons à exécuter avec succès votre projet. En tant que leader parmi les entreprises de développement logiciel à Atlanta et à travers les États-Unis, nous offrons des services de développement logiciel innovants et personnalisés."
+  },
+  "findUs": {
+    "title": "Comment pouvons-nous vous aider ?",
+    "getIn": "Entrer en",
+    "touchWithUs": "Contact Avec Nous",
+    "orFind": "ou Trouvez",
+    "anOffice": "Un Bureau",
+    "closestToYou": "Le Plus Proche de Vous."
+  },
+  "contactus": "nous contacter",
+  "more": "plus"
+}

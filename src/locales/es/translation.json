@@ -1,0 +1,320 @@
+{
+  "nav": {
+    "home": "Hogar",
+    "service": "Servicio",
+    "career": "Carrera",
+    "portfolio": "Cartera",
+    "team": "Equipo",
+    "about": "Acerca de"
+  },
+  "home": {
+    "section1": {
+      "title": "Soluciones innovadoras",
+      "description": "Ya sea que reemplace un sistema heredado o desarrolle una nueva aplicación empresarial, podemos crear una solución de software personalizada que mejor se adapte a su negocio."
+    },
+    "section2": {
+      "title": "Servicios de empresa",
+      "services": {
+        "service1": {
+          "title": "Reclutamiento técnico",
+          "description": "Contrata profesionales de ingenieros confiables y experimentados para su temperatura o proyectos permanentes."
+        },
+        "service2": {
+          "title": "Desarrollo móvil",
+          "description": "Resolver problemas comerciales con la tecnología móvil. "
+        },
+        "service3": {
+          "title": "Inteligencia artificial",
+          "description": "Cree herramientas y aplicaciones de inteligencia artificial (IA) con los mejores desarrolladores para sus necesidades."
+        },
+        "service4": {
+          "title": "Desarrollo web",
+          "description": "Cree una aplicación web innovadora que alimente su negocio a través del desarrollo web personalizado."
+        }
+      }
+    },
+    "section3": {
+      "caption": "Acerca de la agencia digital",
+      "title": "Estrategia, diseño, contenido y tecnología"
+    },
+    "section4": {
+      "title": "Trabajamos con la investigación de usuarios, el diseño de UX, la interfaz de usuario y la ingeniería",
+      "works": {
+        "work1": {
+          "title": "Diseño",
+          "data1": "Maqueta de productos",
+          "data2": "Herrada",
+          "data3": "Ilustraciones",
+          "data4": "Ui/ux",
+          "data5": "Sitios web"
+        },
+        "work2": {
+          "title": "Diseño web",
+          "data1": "Propotipo",
+          "data2": "Ui/ux",
+          "data3": "Redacción de contenido",
+          "data4": "Alojamiento del sitio web",
+          "data5": "Análisis de sitios web"
+        },
+        "work3": {
+          "title": "Desarrollo",
+          "data1": "WordPress",
+          "data2": "Aplicación Devloment",
+          "data3": "Interfaz",
+          "data4": "Javascript"
+        },
+        "work4": {
+          "title": "Herrada",
+          "data1": "Auditoría de capital de marca",
+          "data2": "Análisis de audiencia",
+          "data3": "Revisión competitiva",
+          "data4": "Dirección estratégica",
+          "data5": "Posicionamiento visual"
+        }
+      }
+    },
+    "section5": {
+      "title": "Lo que hacemos",
+      "description": "Ofrecemos servicios de TI administrados y servicios de ciberseguridad para ayudar a las organizaciones a reducir los costos de TI y el tiempo de inactividad, aumentar la eficiencia hasta en un 40%y proteger contra los ataques cibernéticos."
+    },
+    "section6": {
+      "title": "Conocer a nuestro equipo"
+    },
+    "section7": {
+      "counter1": "Clientes felices",
+      "counter2": "proyectos",
+      "counter3": "tazas de café",
+      "counter4": "premio"
+    }
+  },
+  "service": {
+    "section2": {
+      "title": "Soluciones de tecnología empresarial",
+      "caption": "Plataforma de tecnología de negocios",
+      "solutions": {
+        "solution1": {
+          "title": "Analítica",
+          "data1": "PROYECTROS DE ALIMENTOS",
+          "data2": "Incrustar bi y planificación predictiva",
+          "data3": "Convertir las ideas en la acción",
+          "data4": "Visualiza tus decisiones"
+        },
+        "solution2": {
+          "title": "Tecnologías",
+          "data1": "Acceder a IA, aplicaciones en la nube basadas en datos",
+          "data2": "Incrustar inteligencia en procesos",
+          "data3": "Conducir innovación de extremo a extremo",
+          "data4": "Escala su plataforma"
+        }
+      }
+    },
+    "section3": {
+      "title": "¿Qué servicios ofrecemos?",
+      "offers": {
+        "offer1": {
+          "title": "Evaluación",
+          "description": "Nuestro equipo realizará una evaluación de su aplicación de software existente para identificar problemas técnicos subyacentes, áreas de mejora, oportunidades de optimización y riesgos potenciales. "
+        },
+        "offer2": {
+          "title": "Rescate de proyectos",
+          "description": "Los proyectos pueden fallar debido a varios factores, como la calidad del trabajo inferior, los desafíos de recursos, el proceso de desarrollo inadecuado y la falta de gestión de requisitos. "
+        },
+        "offer3": {
+          "title": "Apoyo",
+          "description": "Si tiene una aplicación existente y necesita un socio confiable para mantenerla y expandirla con el tiempo, nuestros programas de soporte de software ofrecen la flexibilidad que necesita. "
+        }
+      }
+    },
+    "section5": {
+      "title": "Soluciones innovadoras",
+      "description": "Ya sea que necesite externalizar su proyecto o contratar profesionales de tecnología calificada, EQ Tech Solutions puede ayudar."
+    },
+    "section6": {
+      "title": "Nuestras fortalezas clave",
+      "counters": {
+        "counter1": "consultores",
+        "counter2": "oficios",
+        "counter3": "clientes regulares"
+      }
+    },
+    "section7": {
+      "title": "Resolvemos problemas complejos",
+      "description": "Experiencia comercial y equipos dedicados para satisfacer las necesidades específicas de cada cliente"
+    }
+  },
+  "career": {
+    "section3": {
+      "title": "Aberturas de trabajo actuales"
+    }
+  },
+  "portfolio": {
+    "section1": {
+      "title": "Estrategia y consultoría de gestión",
+      "description": "La tecnología continúa evolucionando a un ritmo rápido y juega un papel fundamental en el logro de los objetivos organizacionales y la creación de una ventaja comercial competitiva. "
+    },
+    "section2": {
+      "title": "Resolvemos problemas complejos",
+      "description": "Experiencia comercial y equipos dedicados para satisfacer las necesidades específicas de cada cliente"
+    },
+    "section3": {
+      "title": "Proyectos de consultoría",
+      "description": "Nuestros consultores trabajan de manera altamente colaborativa para integrar y apoyar su liderazgo interno y procesos comerciales.",
+      "projects": {
+        "project1": {
+          "title": "Transformación comercial",
+          "description": "Ayudamos a las organizaciones a redefinir sus estrategias, procesos y tecnologías para lograr transformaciones ágiles, escalables y basadas en datos que impulsan el crecimiento y la eficiencia operativa."
+        },
+        "project2": {
+          "title": "Entrenamiento",
+          "description": "Nuestros programas de coaching potencian a los equipos y empleados de liderazgo para mejorar el rendimiento, adoptar la innovación y liderar con confianza en un panorama digital en rápida evolución."
+        },
+        "project3": {
+          "title": "Estrategia de crecimiento",
+          "description": "Diseñamos estrategias de crecimiento basadas en datos que identifican nuevas oportunidades de mercado, mejoran el posicionamiento competitivo y aceleran la generación de ingresos."
+        },
+        "project4": {
+          "title": "Desarrollo",
+          "description": "Desde plataformas web hasta sistemas empresariales, creamos aplicaciones seguras, escalables y de alto rendimiento adaptadas a sus necesidades comerciales únicas y expectativas de los usuarios."
+        },
+        "project5": {
+          "title": "Análisis competitivo",
+          "description": "Nuestros expertos realizan una investigación de mercado en profundidad para evaluar su posición de la industria, los competidores de referencia e identificar ideas procesables para obtener una ventaja competitiva."
+        },
+        "project6": {
+          "title": "Consultoría de marketing",
+          "description": "Desarrollamos estrategias de marketing digital específicas, optimizamos los embudos de conversión y elevamos la visibilidad de la marca para ayudarlo a llegar a la audiencia correcta con un impacto medible."
+        },
+        "project7": {
+          "title": "Finanzas corporativas",
+          "description": "Proporcionamos servicios de modelado financiero, presupuesto y valoración para ayudarlo a tomar decisiones informadas de inversión y garantizar la estabilidad financiera a largo plazo."
+        },
+        "project8": {
+          "title": "Marketing y ventas",
+          "description": "Alineamos estrategias de ventas y marketing con el comportamiento y el análisis del cliente, creando campañas de alto impacto que convierten los clientes potenciales en clientes leales."
+        },
+        "project9": {
+          "title": "Estrategia de personas",
+          "description": "Nuestros expertos en recursos humanos y organizacionales lo ayudan a construir estrategias de la fuerza laboral que mejoran la cultura, la adquisición del talento, la gestión del desempeño y la retención de empleados."
+        }
+      }
+    },
+    "section4": {
+      "counter1": "especialistas",
+      "counter2": "Clientes felices",
+      "counter3": "casos exitosos",
+      "counter4": "premio"
+    }
+  },
+  "team": {
+    "section1": {
+      "title": "Nuestra gente",
+      "description": "Ya sea que necesite externalizar su proyecto o contratar profesionales de tecnología calificada, EQ Tech Solutions puede ayudar. "
+    },
+    "section2": {
+      "text": "Traemos una nueva perspectiva y energía infecciosa a cada relación con el cliente. "
+    },
+    "section3": {
+      "title": "Nuestro liderazgo y gente"
+    },
+    "section4": {
+      "title": "Trabajamos como un equipo global para ayudarlo a lograr lo extraordinario",
+      "description": "Siempre adoptamos un enfoque personalizado para encontrar las soluciones de personal de TI que necesita. ",
+      "comment": "Trabajamos sin problemas como una empresa para servir a nuestros clientes donde sea que nos necesiten. ",
+      "subDescription": "Cuando necesita soluciones de personal de TI, puede confiar en las soluciones de EQ Tech para ayudar. "
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "Aconsejamos a los líderes sobre la estrategia"
+    },
+    "section2": {
+      "title": "La idea que nos impulsa como consultores de gestión",
+      "description": "Nuestros consultores trabajan de manera altamente colaborativa para integrar y apoyar su liderazgo interno y procesos comerciales.",
+      "projects": {
+        "project1": {
+          "title": "Quien somos",
+          "description": "Texto de muestra. "
+        },
+        "project2": {
+          "title": "Nuestros valores",
+          "description": "Texto de muestra. "
+        },
+        "project3": {
+          "title": "Nuestra gente",
+          "description": "Texto de muestra. "
+        }
+      }
+    },
+    "section3": {
+      "title": "Servicios de empresa",
+      "services": {
+        "service1": {
+          "title": "Diseño de UX",
+          "description": "Nuestros diseñadores de experiencia de usuario y arquitectos de soluciones trabajan en colaboración para diseñar los elementos visuales e interactivos de su proyecto."
+        },
+        "service2": {
+          "title": "Diseño de soluciones",
+          "description": "Creemos que los proyectos de software personalizados exitosos comienzan con una comprensión profunda de los objetivos y requisitos comerciales de nuestros clientes."
+        },
+        "service3": {
+          "title": "Diseño técnico",
+          "description": "Nos enorgullece desarrollar un software personalizado que sea efectivo y duradero, proporcionando a los clientes una solución confiable y escalable."
+        },
+        "service4": {
+          "title": "Alcance del proyecto",
+          "description": "La salida de este esfuerzo de alcance es un documento de alcance que describe los objetivos generales del proyecto, la solución técnica anticipada y los pronósticos de la línea de tiempo."
+        }
+      }
+    },
+    "section4": {
+      "title": "Cada gran negocio está impulsado por una idea",
+      "description": "Obtenga una ventaja competitiva en su industria con servicios de desarrollo de software personalizados de EQ Tech Solutions."
+    },
+    "section5": {
+      "comment": "Navegar por las transiciones de forma de la industria como la circularidad con mis clientes y convertirlos en oportunidades es por eso que hago este trabajo. ",
+      "name": "Merrill Smith",
+      "role": "Pareja"
+    },
+    "section6": {
+      "title": "Lo que creemos",
+      "description": "Nuestra misión es impactar las vidas tocadas por la tecnología. "
+    }
+  },
+  "contact": {
+    "description": "¡Complete el formulario y nuestro equipo se pondrá en contacto con usted tan pronto como podamos!",
+    "label1": "DIRECCIÓN",
+    "address": "Nuevo you, EE. UU.",
+    "label2": "Teléfono",
+    "phone": "+1 234-567-890",
+    "label3": "Horas",
+    "hours": "6:00 am - 2:00 am",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "subject": "Sujeto",
+      "message": "Mensaje",
+      "submit": "Entregar"
+    }
+  },
+  "footer": {
+    "description": "Texto de muestra. ",
+    "getInTouch": "Ponerse en contacto",
+    "ouickLinks": "Enlaces ouick",
+    "support": "Apoyo"
+  },
+  "gotProject": {
+    "title1": "¿Tienes un proyecto?",
+    "title2": "Hablemos",
+    "description": "Le ayudaremos a ejecutar con éxito su proyecto. "
+  },
+  "findUs": {
+    "title": "¿Cómo podemos ayudarte?",
+    "getIn": "Entra",
+    "touchWithUs": "Toque con nosotros",
+    "orFind": "orfind",
+    "anOffice": "Una oficina",
+    "closestToYou": "Más cercano a ti."
+  },
+  "contactus": "Contáctenos",
+  "more": "más"
+}

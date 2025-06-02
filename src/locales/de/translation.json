@@ -1,0 +1,320 @@
+{
+  "nav": {
+    "home": "Heim",
+    "service": "Service",
+    "career": "Karriere",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "about": "Um"
+  },
+  "home": {
+    "section1": {
+      "title": "Innovative Lösungen",
+      "description": "Unabhängig davon, ob Sie ein Legacy -System ersetzen oder eine neue Enterprise -Anwendung entwickeln, können wir eine benutzerdefinierte Softwarelösung erstellen, die am besten zu Ihrem Unternehmen passt."
+    },
+    "section2": {
+      "title": "Unternehmensdienste",
+      "services": {
+        "service1": {
+          "title": "Technische Rekrutierung",
+          "description": "Stellen Sie zuverlässige und erfahrene Ingenieur -Profis für Ihre Temperatur oder dauerhafte Projekte ein."
+        },
+        "service2": {
+          "title": "Mobile Entwicklung",
+          "description": "Geschäftsprobleme mit mobiler Technologie lösen. "
+        },
+        "service3": {
+          "title": "Künstliche Intelligenz",
+          "description": "Bauen Sie Tools und Anwendungen für künstliche Intelligenz (KI) mit den besten Entwicklern für Ihre Bedürfnisse auf."
+        },
+        "service4": {
+          "title": "Webentwicklung",
+          "description": "Erstellen Sie eine innovative Webanwendung, die Ihr Unternehmen durch benutzerdefinierte Webentwicklung betreibt."
+        }
+      }
+    },
+    "section3": {
+      "caption": "Über digitale Agentur",
+      "title": "Strategie, Design, Inhalt und Technologie"
+    },
+    "section4": {
+      "title": "Wir arbeiten mit User Research, UX Design, UI und Engineering zusammen",
+      "works": {
+        "work1": {
+          "title": "Design",
+          "data1": "Produktmodell",
+          "data2": "Branding",
+          "data3": "Illustrationen",
+          "data4": "Ui/ux",
+          "data5": "Websites"
+        },
+        "work2": {
+          "title": "Webdesign",
+          "data1": "Propotyp",
+          "data2": "Ui/ux",
+          "data3": "Inhaltsschreiben",
+          "data4": "Website -Hosting",
+          "data5": "Website -Analyse"
+        },
+        "work3": {
+          "title": "Entwicklung",
+          "data1": "WordPress",
+          "data2": "Anwendung Devloment",
+          "data3": "Frontend",
+          "data4": "JavaScript"
+        },
+        "work4": {
+          "title": "Branding",
+          "data1": "Marken -Equity -Audit",
+          "data2": "Publikumsanalyse",
+          "data3": "Wettbewerbsüberprüfung",
+          "data4": "Strategische Richtung",
+          "data5": "Visuelle Positionierung"
+        }
+      }
+    },
+    "section5": {
+      "title": "Was wir tun",
+      "description": "Wir bieten verwaltete IT -Dienste und Cybersicherheitsdienste an, um Unternehmen bei der Reduzierung der IT -Kosten und der Ausfallzeit zu helfen, die Effizienz um bis zu 40%zu steigern und vor Cyberangriffen zu schützen."
+    },
+    "section6": {
+      "title": "Treffen Sie unser Team"
+    },
+    "section7": {
+      "counter1": "Glückliche Kunden",
+      "counter2": "Projekte",
+      "counter3": "Tassen Kaffee",
+      "counter4": "Auszeichnungen"
+    }
+  },
+  "service": {
+    "section2": {
+      "title": "Business Technology Solutions",
+      "caption": "Business Technology Platform",
+      "solutions": {
+        "solution1": {
+          "title": "Analyse",
+          "data1": "REMALLINE Analytics -Prozesse",
+          "data2": "BID BI und Predictive Planung einbetten",
+          "data3": "Erkenntnisse in die Tat umsetzen",
+          "data4": "Visualisieren Sie Ihre Entscheidungen"
+        },
+        "solution2": {
+          "title": "Technologien",
+          "data1": "Zugriff auf KI, datengesteuerte Cloud-Apps",
+          "data2": "Intelligenz in Prozesse einbetten",
+          "data3": "End-to-End-Innovation vorantreiben",
+          "data4": "Skalieren Sie Ihre Plattform"
+        }
+      }
+    },
+    "section3": {
+      "title": "Welche Dienstleistungen bieten wir an?",
+      "offers": {
+        "offer1": {
+          "title": "Bewertung",
+          "description": "Unser Team wird eine Bewertung Ihrer vorhandenen Softwareanwendung durchführen, um zugrunde liegende technische Probleme, Bereiche für Verbesserungen, Optimierungsmöglichkeiten und potenzielle Risiken zu identifizieren. "
+        },
+        "offer2": {
+          "title": "Projektrettung",
+          "description": "Projekte können aufgrund verschiedener Faktoren, wie unterdurchschnittlicher Arbeitsqualität, Ressourcenherausforderungen, unzureichender Entwicklungsprozess und mangelnder Anforderungsmanagement scheitern. "
+        },
+        "offer3": {
+          "title": "Unterstützung",
+          "description": "Wenn Sie eine vorhandene Anwendung haben und einen zuverlässigen Partner benötigen, um sie im Laufe der Zeit zu pflegen und zu erweitern, bieten unsere Software -Support -Programme die Flexibilität, die Sie benötigen. "
+        }
+      }
+    },
+    "section5": {
+      "title": "Innovative Lösungen",
+      "description": "Unabhängig davon, ob Sie Ihr Projekt auslagern oder qualifizierte Technologiefachleute einstellen müssen, können EQ Tech -Lösungen helfen."
+    },
+    "section6": {
+      "title": "Unsere wichtigsten Stärken",
+      "counters": {
+        "counter1": "Berater",
+        "counter2": "Büros",
+        "counter3": "Stammkunden"
+      }
+    },
+    "section7": {
+      "title": "Wir lösen komplexe Probleme",
+      "description": "Geschäftskompetenz und engagierte Teams, um die spezifischen Anforderungen jedes Kunden zu erfüllen"
+    }
+  },
+  "career": {
+    "section3": {
+      "title": "Aktuelle Stellenangebote"
+    }
+  },
+  "portfolio": {
+    "section1": {
+      "title": "Strategie- und Managementberatung",
+      "description": "Die Technologie entwickelt sich in rasantem Tempo weiter und spielt eine entscheidende Rolle bei der Erreichung der organisatorischen Ziele und der Schaffung eines wettbewerbsfähigen Geschäftsvorteils. "
+    },
+    "section2": {
+      "title": "Wir lösen komplexe Probleme",
+      "description": "Geschäftskompetenz und engagierte Teams, um die spezifischen Anforderungen jedes Kunden zu erfüllen"
+    },
+    "section3": {
+      "title": "Beratungsprojekte",
+      "description": "Unsere Berater arbeiten in sehr kollaborativer Weise, um Ihre internen Führungs- und Geschäftsprozesse zu integrieren und zu unterstützen.",
+      "projects": {
+        "project1": {
+          "title": "Geschäftstransformation",
+          "description": "Wir helfen Organisationen, ihre Strategien, Prozesse und Technologien neu zu definieren, um agile, skalierbare und datengesteuerte Transformationen zu erreichen, die das Wachstum und die betriebliche Effizienz steigern."
+        },
+        "project2": {
+          "title": "Coaching",
+          "description": "Unsere Coaching -Programme ermöglichen Führungsteams und Mitarbeitern, die Leistung zu verbessern, Innovationen zu berücksichtigen und mit Vertrauen in eine sich schnell entwickelnde digitale Landschaft zu führen."
+        },
+        "project3": {
+          "title": "Wachstumsstrategie",
+          "description": "Wir entwerfen daten informierte Wachstumsstrategien, die neue Marktchancen identifizieren, die Wettbewerbspositionierung verbessern und die Umsatzerzeugung beschleunigen."
+        },
+        "project4": {
+          "title": "Entwicklung",
+          "description": "Von Webplattformen bis hin zu Unternehmenssystemen erstellen wir sichere, skalierbare und leistungsstarke Anwendungen, die auf Ihre einzigartigen Geschäftsanforderungen und Benutzererwartungen zugeschnitten sind."
+        },
+        "project5": {
+          "title": "Wettbewerbsanalyse",
+          "description": "Unsere Experten führen eingehende Marktforschung durch, um Ihre Branchenposition zu bewerten, die Wettbewerber zu bewerten und umsetzbare Erkenntnisse zu ermitteln, um einen Wettbewerbsvorteil zu erreichen."
+        },
+        "project6": {
+          "title": "Marketingberatung",
+          "description": "Wir entwickeln gezielte Strategien für digitale Marketing, optimieren Conversion -Trichter und erhöhen die Sichtbarkeit von Marken, um die richtige Zielgruppe mit messbaren Auswirkungen zu erreichen."
+        },
+        "project7": {
+          "title": "Unternehmensfinanzierung",
+          "description": "Wir bieten Finanzmodellierungs-, Budget- und Bewertungsdienstleistungen an, um fundierte Investitionsentscheidungen zu treffen und langfristige finanzielle Stabilität zu gewährleisten."
+        },
+        "project8": {
+          "title": "Marketing und Vertrieb",
+          "description": "Wir richten Vertriebs- und Marketingstrategien mit Kundenverhalten und Analysen aus und erstellen hochwirksame Kampagnen, die Leads in treue Kunden umwandeln."
+        },
+        "project9": {
+          "title": "Menschen Strategie",
+          "description": "Unsere HR- und Organisationsexperten helfen Ihnen beim Aufbau von Belegschaftsstrategien, die Kultur, Talentakquisition, Leistungsmanagement und Mitarbeiterbindung verbessern."
+        }
+      }
+    },
+    "section4": {
+      "counter1": "Spezialisten",
+      "counter2": "Glückliche Kunden",
+      "counter3": "Erfolgreiche Fälle",
+      "counter4": "Auszeichnungen"
+    }
+  },
+  "team": {
+    "section1": {
+      "title": "Unsere Leute",
+      "description": "Unabhängig davon, ob Sie Ihr Projekt auslagern oder qualifizierte Technologiefachleute einstellen müssen, können EQ Tech -Lösungen helfen. "
+    },
+    "section2": {
+      "text": "Wir bringen jeder Kundenbeziehung eine neue Perspektive und ansteckende Energie. "
+    },
+    "section3": {
+      "title": "Unsere Führung und Menschen"
+    },
+    "section4": {
+      "title": "Wir arbeiten als ein globales Team, um Ihnen zu helfen, das Außergewöhnliche zu erreichen",
+      "description": "Wir verfolgen immer einen maßgeschneiderten Ansatz, um die IT -Personal -Lösungen zu finden, die Sie benötigen. ",
+      "comment": "Wir arbeiten nahtlos zusammen als ein Unternehmen zusammen, um unseren Kunden überall dort zu dienen, wo sie uns brauchen. ",
+      "subDescription": "Wenn Sie IT -Personallösungen benötigen, können Sie EQ Tech -Lösungen vertrauen, um zu helfen. "
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "Wir beraten Führungskräfte in Strategie"
+    },
+    "section2": {
+      "title": "Die Idee, die uns als Geschäftsberater treibt",
+      "description": "Unsere Berater arbeiten in sehr kollaborativer Weise, um Ihre internen Führungs- und Geschäftsprozesse zu integrieren und zu unterstützen.",
+      "projects": {
+        "project1": {
+          "title": "Wer wir sind",
+          "description": "Beispieltext. "
+        },
+        "project2": {
+          "title": "Unsere Werte",
+          "description": "Beispieltext. "
+        },
+        "project3": {
+          "title": "Unsere Leute",
+          "description": "Beispieltext. "
+        }
+      }
+    },
+    "section3": {
+      "title": "Unternehmensdienste",
+      "services": {
+        "service1": {
+          "title": "UX -Design",
+          "description": "Unsere Benutzererfahrungsdesigner und Lösungsarchitekten arbeiten gemeinsam daran, die visuellen und interaktiven Elemente Ihres Projekts zu entwerfen."
+        },
+        "service2": {
+          "title": "Lösungsdesign",
+          "description": "Wir sind der Ansicht, dass erfolgreiche benutzerdefinierte Softwareprojekte mit einem gründlichen Verständnis der Geschäftsziele und Anforderungen unserer Kunden beginnen."
+        },
+        "service3": {
+          "title": "Technisches Design",
+          "description": "Wir sind stolz darauf, benutzerdefinierte Software zu entwickeln, die sowohl effektiv als auch langlebig ist und Kunden eine zuverlässige und skalierbare Lösung bietet."
+        },
+        "service4": {
+          "title": "Projekt Scoping",
+          "description": "Die Ausgabe dieser Scoping -Bemühungen ist ein Umfangsdokument, in dem die Gesamtziele des Projekts, die erwartete technische Lösung und die Timeline -Prognosen beschrieben werden."
+        }
+      }
+    },
+    "section4": {
+      "title": "Jedes großartige Geschäft wird von einer Idee angetrieben",
+      "description": "Erhalten Sie einen Wettbewerbsvorteil in Ihrer Branche mit benutzerdefinierten Softwareentwicklungsdiensten von EQ Tech -Lösungen."
+    },
+    "section5": {
+      "comment": "Das Navigieren in branchenförmigen Übergängen wie Zirkularität mit meinen Kunden und das Umwandeln in Chancen ist der Grund, warum ich diese Arbeit mache. ",
+      "name": "Merrill Smith",
+      "role": "Partner"
+    },
+    "section6": {
+      "title": "Was wir glauben",
+      "description": "Unsere Mission ist es, das von Technologie berührte Leben zu beeinflussen. "
+    }
+  },
+  "contact": {
+    "description": "Füllen Sie das Formular aus und unser Team wird sich so schnell wie möglich bei Ihnen melden!",
+    "label1": "Adresse",
+    "address": "New Yourk, USA",
+    "label2": "Telefon",
+    "phone": "+1 234-567-890",
+    "label3": "Std",
+    "hours": "6:00 Uhr - 2:00 Uhr",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Thema",
+      "message": "Nachricht",
+      "submit": "Einreichen"
+    }
+  },
+  "footer": {
+    "description": "Beispieltext. ",
+    "getInTouch": "Sich in Verbindung setzen",
+    "ouickLinks": "Ouick -Links",
+    "support": "Unterstützung"
+  },
+  "gotProject": {
+    "title1": "Hast du ein Projekt?",
+    "title2": "Reden wir",
+    "description": "Wir helfen Ihnen dabei, Ihr Projekt erfolgreich auszuführen. "
+  },
+  "findUs": {
+    "title": "Wie können wir Ihnen helfen?",
+    "getIn": "Treten Sie ein",
+    "touchWithUs": "Berühre mit uns",
+    "orFind": "orfind",
+    "anOffice": "Ein Büro",
+    "closestToYou": "Dir am nächsten."
+  },
+  "contactus": "Kontaktieren Sie uns",
+  "more": "mehr"
+}

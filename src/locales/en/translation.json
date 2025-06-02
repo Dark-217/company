@@ -1,0 +1,320 @@
+{
+  "nav": {
+    "home": "Home",
+    "service": "Service",
+    "career": "Career",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "about": "About"
+  },
+  "home": {
+    "section1": {
+      "title": "Innovative Solutions",
+      "description": "Whether you’re replacing a legacy system or developing a new enterprise application, we can create a custom software solution that best suits your business."
+    },
+    "section2": {
+      "title": "Company Services",
+      "services": {
+        "service1": {
+          "title": "Technical Recruiting",
+          "description": "Hire reliable and experienced engineer professionals for your temp or permanent projects."
+        },
+        "service2": {
+          "title": "Mobile Development",
+          "description": "Solve business problems with mobile technology. Build a consumer or enterprise app created by our development team."
+        },
+        "service3": {
+          "title": "Artificial Intelligence",
+          "description": "Build Artificial intelligence (AI) tools and applications with best developers for your needs."
+        },
+        "service4": {
+          "title": "Web Development",
+          "description": "Build an innovative web application that powers your business through custom web development."
+        }
+      }
+    },
+    "section3": {
+      "caption": "about digital agency",
+      "title": "Strategy, design, content and technology"
+    },
+    "section4": {
+      "title": "We work with user research, UX design, UI and engineering",
+      "works": {
+        "work1": {
+          "title": "Design",
+          "data1": "Product Mockup",
+          "data2": "Branding",
+          "data3": "Illustrations",
+          "data4": "UI/UX",
+          "data5": "Websites"
+        },
+        "work2": {
+          "title": "Web Design",
+          "data1": "Propotype",
+          "data2": "UI/UX",
+          "data3": "Content Writing",
+          "data4": "Website Hosting",
+          "data5": "Website Analysis"
+        },
+        "work3": {
+          "title": "Development",
+          "data1": "WordPress",
+          "data2": "Application Devloment",
+          "data3": "Front-end",
+          "data4": "Javascript"
+        },
+        "work4": {
+          "title": "Branding",
+          "data1": "Brand equity audit",
+          "data2": "Audience analysis",
+          "data3": "Competitive review",
+          "data4": "Strategic direction",
+          "data5": "Visual positioning"
+        }
+      }
+    },
+    "section5": {
+      "title": "What we do",
+      "description": "We offers managed IT services and cybersecurity services to help organizations reduce IT costs and downtime, increase efficiency by up to 40%, and protect against cyberattacks."
+    },
+    "section6": {
+      "title": "Meet Our Team"
+    },
+    "section7": {
+      "counter1": "happy customers",
+      "counter2": "projects",
+      "counter3": "cups of coffee",
+      "counter4": "awards"
+    }
+  },
+  "service": {
+    "section2": {
+      "title": "Business Technology Solutions",
+      "caption": "Business Technology Platform",
+      "solutions": {
+        "solution1": {
+          "title": "Analytics",
+          "data1": "Streamline analytics processes",
+          "data2": "Embed BI and predictive planning",
+          "data3": "Turn insights into action",
+          "data4": "Visualize your decisions"
+        },
+        "solution2": {
+          "title": "Technologies",
+          "data1": "Access AI, data-driven cloud apps",
+          "data2": "Embed intelligence into processes",
+          "data3": "Drive end-to-end innovation",
+          "data4": "Scale your platform"
+        }
+      }
+    },
+    "section3": {
+      "title": "What services do we offer?",
+      "offers": {
+        "offer1": {
+          "title": "Assessment",
+          "description": "Our team will perform an evaluation of your existing software application to identify underlying technical issues, areas for improvement, optimization opportunities, and potential risks. The scope of the Software Assessment is tailored to your individual needs but can include an analysis of the application’s architecture, code quality, performance, security, and maintainability."
+        },
+        "offer2": {
+          "title": "Project Rescue",
+          "description": "Projects may fail due to various factors, such as subpar work quality, resource challenges, inadequate development process, and lack of requirements management. Our Project Rescue service is a specialized solution designed to assist clients facing difficulties with their ongoing software projects. Our team can step in to pinpoint issues, and devise a strategic plan to steer your project back on the right path."
+        },
+        "offer3": {
+          "title": "Support",
+          "description": "If you have an existing application and need a reliable partner to maintain and expand it over time, our Software Support programs offer the flexibility you need. EQ TECH Solutions provides three support programs, allowing clients to switch between them as necessary. Our experienced team of developers and managers ensures business continuity, eliminating concerns about relying on a single resource."
+        }
+      }
+    },
+    "section5": {
+      "title": "Innovative solutions",
+      "description": "Whether you need to outsource your project or hire skilled technology professionals, EQ TECH Solutions can help."
+    },
+    "section6": {
+      "title": "Our Key Strengths",
+      "counters": {
+        "counter1": "consultants",
+        "counter2": "offices",
+        "counter3": "regular customers"
+      }
+    },
+    "section7": {
+      "title": "We solve complex problems",
+      "description": "Business expertise and dedicated teams to meet each and every client’s specific needs"
+    }
+  },
+  "career": {
+    "section3": {
+      "title": "Current Job Openings"
+    }
+  },
+  "portfolio": {
+    "section1": {
+      "title": "Strategy & management Consultancy",
+      "description": "Technology continues to evolve at a rapid pace and plays a critical role in achieving organizational goals and creating a competitive business edge. The success of any technology initiative depends upon having a winning strategy, a well-engineered design, and a methodical implementation approach."
+    },
+    "section2": {
+      "title": "We solve complex problems",
+      "description": "Business expertise and dedicated teams to meet each and every client’s specific needs"
+    },
+    "section3": {
+      "title": "Consulting projects",
+      "description": "Our consultants work in a highly collaborative manner to integrate and support your internal leadership and business processes.",
+      "projects": {
+        "project1": {
+          "title": "Business Transformation",
+          "description": "We help organizations redefine their strategies, processes, and technologies to achieve agile, scalable, and data-driven transformations that drive growth and operational efficiency."
+        },
+        "project2": {
+          "title": "Coaching",
+          "description": "Our coaching programs empower leadership teams and employees to enhance performance, embrace innovation, and lead with confidence in a rapidly evolving digital landscape."
+        },
+        "project3": {
+          "title": "Growth Strateg",
+          "description": "We design data-informed growth strategies that identify new market opportunities, improve competitive positioning, and accelerate revenue generation."
+        },
+        "project4": {
+          "title": "Development",
+          "description": "From web platforms to enterprise systems, we build secure, scalable, and high-performing applications tailored to your unique business needs and user expectations."
+        },
+        "project5": {
+          "title": "Competitive Analysis",
+          "description": "Our experts conduct in-depth market research to evaluate your industry position, benchmark competitors, and identify actionable insights to gain a competitive edge."
+        },
+        "project6": {
+          "title": "Marketing Consulting",
+          "description": "We develop targeted digital marketing strategies, optimize conversion funnels, and elevate brand visibility to help you reach the right audience with measurable impact."
+        },
+        "project7": {
+          "title": "Corporate Finance",
+          "description": "We provide financial modeling, budgeting, and valuation services to help you make informed investment decisions and ensure long-term financial stability."
+        },
+        "project8": {
+          "title": "Marketing and Sales",
+          "description": "We align sales and marketing strategies with customer behavior and analytics, creating high-impact campaigns that convert leads into loyal clients."
+        },
+        "project9": {
+          "title": "People Strategy",
+          "description": "Our HR and organizational experts help you build workforce strategies that enhance culture, talent acquisition, performance management, and employee retention."
+        }
+      }
+    },
+    "section4": {
+      "counter1": "specialists",
+      "counter2": "happy clients",
+      "counter3": "successful cases",
+      "counter4": "awards"
+    }
+  },
+  "team": {
+    "section1": {
+      "title": "Our People",
+      "description": "Whether you need to outsource your project or hire skilled technology professionals, EQ TECH Solutions can help. As a leading software development company originally headquartered in Atlanta, we have more than 25 years of experience in helping our clients succeed."
+    },
+    "section2": {
+      "text": "We bring a fresh perspective and infectious energy to every client relationship. Our emphasis on teamwork, trust and tolerance for diverging opinions helps clients focus on their opportunities, build their capabilities and win the future. Together, we achieve results that bridge what is with what can be."
+    },
+    "section3": {
+      "title": "Our Leadership and People"
+    },
+    "section4": {
+      "title": "We work as one global team to help you achieve the extraordinary",
+      "description": "We always take a customized approach to find the IT staffing solutions that you need. No matter if you’re building a team from the ground up or need immediate support from highly skilled IT professionals, EQ TECH Solutions’s can be there to support projects large and small.",
+      "comment": "We work seamlessly together as one firm to serve our clients wherever they need us. With 64 offices in 39 countries around the world, we make our collective knowledge, experience and global network available to our clients.",
+      "subDescription": "When you need IT staffing solutions, you can trust EQ TECH Solutions to help. While other staffing agencies cast a wide net when it comes to recruitment, we specialize in technical recruiting. EQ TECH Solutions acutely understands the tech talent businesses need because we are also a software development company. With years of experience in IT, we bring our expertise to your organization that other staffing firms can’t."
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "We advise leaders on strategy"
+    },
+    "section2": {
+      "title": "The idea that drives us as management consultants",
+      "description": "Our consultants work in a highly collaborative manner to integrate and support your internal leadership and business processes.",
+      "projects": {
+        "project1": {
+          "title": "Who we are",
+          "description": "Sample text. Click to select the Text Element."
+        },
+        "project2": {
+          "title": "Our values",
+          "description": "Sample text. Click to select the Text Element."
+        },
+        "project3": {
+          "title": "Our people",
+          "description": "Sample text. Click to select the Text Element."
+        }
+      }
+    },
+    "section3": {
+      "title": "Company Services",
+      "services": {
+        "service1": {
+          "title": "UX Design",
+          "description": "Our user experience designers and solution architects work collaboratively to design the visual and interactive elements of your project."
+        },
+        "service2": {
+          "title": "Solution Design",
+          "description": "We believe that successful custom software projects start with a thorough understanding of our clients’ business objectives and requirements."
+        },
+        "service3": {
+          "title": "Technical Design",
+          "description": "We take pride in developing custom software that is both effective and long-lasting, providing clients with a reliable and scalable solution."
+        },
+        "service4": {
+          "title": "Project Scoping",
+          "description": "The output of this scoping effort is a scope document that outlines the project’s overall goals, anticipated technical solution, and timeline forecasts."
+        }
+      }
+    },
+    "section4": {
+      "title": "Every great business is driven by an idea",
+      "description": "Gain a competitive advantage in your industry with custom software development services from EQ TECH Solutions."
+    },
+    "section5": {
+      "comment": "Navigating industry-shaping transitions like circularity with my clients, and turning these into opportunities, is why I do this work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Merrill Smith",
+      "role": "Partner"
+    },
+    "section6": {
+      "title": "What we believe",
+      "description": "Our mission is to impact the lives touched by technology. To that end, our vision is to help 6,000 businesses realize their goals through technology."
+    }
+  },
+  "contact": {
+    "description": "Fill out the form and our team will get back to you as soon as we can!",
+    "label1": "Address",
+    "address": "New Yourk, USA",
+    "label2": "Phone",
+    "phone": "+1 234-567-890",
+    "label3": "Hours",
+    "hours": "6:00 am - 2:00 am",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit"
+    }
+  },
+  "footer": {
+    "description": "Sample text. Click to select the Text Element.",
+    "getInTouch": "Get in touch",
+    "ouickLinks": "Ouick links",
+    "support": "Support"
+  },
+  "gotProject": {
+    "title1": "Got a projet?",
+    "title2": "Let's talk",
+    "description": "We will help you successfully execute your project. As a leader among software development companies in Atlanta and across the US, we offer innovative, customized software development services."
+  },
+  "findUs": {
+    "title": "How can we help you?",
+    "getIn": "Get in",
+    "touchWithUs": "Touch With Us",
+    "orFind": "orFind",
+    "anOffice": "An Office",
+    "closestToYou": "Closest to you."
+  },
+  "contactus": "contact us",
+  "more": "more"
+}
