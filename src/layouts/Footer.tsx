@@ -160,7 +160,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex-[0_0_23%] xl:flex-[0_0_20%] min-w-full md:min-w-[23%] xl:min-w-[20%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
-              <p className="text-3xl font-bold">Ouick links</p>
+              <p className="text-3xl font-bold">{t("footer.ouickLinks")}</p>
               <p className="text-xl mt-5">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link className="text-[#999]" to="/" title={t("nav.home")}>
@@ -192,7 +192,7 @@ const Footer = () => {
               </p>
             </div>
             <div className="flex-[0_0_18%] xl:flex-[0_0_20%] min-w-full md:min-w-[18%] xl:min-w-[20%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
-              <p className="text-3xl font-bold">Support</p>
+              <p className="text-3xl font-bold">{t("footer.support")}</p>
               <p className="text-xl mt-5">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link

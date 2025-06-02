@@ -208,7 +208,7 @@
   "team": {
     "section1": {
       "title": "Our People",
-      "description": "Whether you need to outsource your project or hire skilled technology professionals, EQ TECH Solutions can help. As a leading software development company originally headquartered in Atlanta, we have more than 25 years of experience in helping our clients succeed."
+      "description": "Whether you need to outsource your project or hire skilled technology professionals, EQ TECH Solutions can help. As a leading software development company originally headquartered in Atlanta, we have more than 10 years of experience in helping our clients succeed."
     },
     "section2": {
       "text": "We bring a fresh perspective and infectious energy to every client relationship. Our emphasis on teamwork, trust and tolerance for diverging opinions helps clients focus on their opportunities, build their capabilities and win the future. Together, we achieve results that bridge what is with what can be."
@@ -316,5 +316,6 @@
     "closestToYou": "Closest to you."
   },
   "contactus": "contact us",
-  "more": "more"
+  "more": "more",
+  "learnmore": "Learn more"
 }

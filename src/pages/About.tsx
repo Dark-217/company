@@ -282,7 +282,7 @@ const About = () => {
               </h3>
               <p className="text-xl mt-10">{t("about.section6.description")}</p>
               <Button className="mt-5 mr-auto" to="contact">
-                learn more
+                {t('learnmore')}
               </Button>
             </div>
           </div>
