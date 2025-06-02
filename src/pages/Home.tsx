@@ -238,7 +238,7 @@ const Home = () => {
 
   return (
     <>
-      <section className="bg-[url(images/home/landing.jpg)] bg-cover bg-no-repeat bg-position-(---landing-bg-xs-position) sm:bg-position-(---landing-bg-sm-position) md:bg-center text-[#111]">
+      <section className="bg-[url(/images/home/landing.jpg)] bg-cover bg-no-repeat bg-position-(---landing-bg-xs-position) sm:bg-position-(---landing-bg-sm-position) md:bg-center text-[#111]">
         <div className="flex flex-col justify-center w-[340px] sm:w-[540px] md:w-[720px] lg:w-[940px] xl:w-[1140px] min-h-[567px] sm:min-h-[623px] lg:min-h-[689px] xl:min-h-[835px] m-auto">
           <div className="flex w-56 sm:w-xs md:w-sm lg:w-md xl:w-lg min-h-[497px] sm:min-h-[503px] lg:min-h-[538px] bg-white my-9 sm:my-16 text-left">
             <div className="flex-1 flex flex-col justify-center px-5 md:px-8 lg:px-10 xl:px-11 py-8">
