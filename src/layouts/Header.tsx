@@ -4,19 +4,19 @@ import { useTranslation } from "react-i18next";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
 import logo from "../assets/images/logo.png";
 
-const languages = [
-  { value: "en", text: "English" },
-  { value: "es", text: "Español" },
-  { value: "de", text: "Deutsch" },
-  { value: "fr", text: "Français" },
-];
-
 const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [flag, setFlag] = useState("en");
 
   const { pathname } = useLocation();
   const { i18n, t } = useTranslation();
+
+  const languages = [
+    { value: "en", text: t("language.en") },
+    { value: "es", text: t("language.es") },
+    { value: "de", text: t("language.de") },
+    { value: "fr", text: t("language.fr") },
+  ];
 
   const navigation = [
     { name: t("nav.home"), href: "/" },
@@ -120,24 +120,29 @@ const Header = () => {
           <Menu as="div" className="relative leading-0">
             <MenuButton className="w-6 h-6 outline-none cursor-pointer">
               <img
-                src={`https://media.flaticon.com/dist/min/img/flags/${flag==="en-US"?"en":flag}.svg`}
+                src={`https://media.flaticon.com/dist/min/img/flags/${flag}.svg`}
                 alt="language flag"
               />
             </MenuButton>
 
             <MenuItems
               transition
-              className="absolute right-0 z-10 mt-2 origin-top-right rounded-md bg-white shadow-[0_0_10px_0_rgba(0,0,0,.7)] ring-1 ring-black/5 transition focus:outline-hidden data-closed:scale-95 data-closed:transform data-closed:opacity-0 data-enter:duration-100 data-enter:ease-out data-leave:duration-75 data-leave:ease-in"
+              className="absolute right-0 z-10 mt-2 origin-top-right rounded-md w-32 bg-white shadow-[0_0_10px_0_rgba(0,0,0,.7)] ring-1 ring-black/5 transition focus:outline-hidden data-closed:scale-95 data-closed:transform data-closed:opacity-0 data-enter:duration-100 data-enter:ease-out data-leave:duration-75 data-leave:ease-in"
             >
-              <div className="py-1">
+              <div className="py-1 w-full">
                 {languages.map((item) => (
                   <MenuItem key={item.value}>
-                    <span
-                      className="block px-4 py-2 text-sm text-gray-700 data-focus:bg-gray-100 data-focus:text-gray-900 data-focus:outline-hidden cursor-pointer"
+                    <div
+                      className="flex items-center gap-4 px-4 py-2 text-sm text-gray-700 data-focus:bg-gray-100 data-focus:text-gray-900 data-focus:outline-hidden cursor-pointer"
                       onClick={() => i18n.changeLanguage(item.value)}
                     >
-                      {item.text}
-                    </span>
+                      <img
+                        className="w-6 h-6"
+                        src={`https://media.flaticon.com/dist/min/img/flags/${item.value}.svg`}
+                        alt="language flag"
+                      />
+                      <span>{item.text}</span>
+                    </div>
                   </MenuItem>
                 ))}
               </div>

@@ -70,8 +70,8 @@ const Service = () => {
           src={image1}
           alt="sevice landing"
         />
-        <div className="relative w-[340px] sm:w-[418px] md:w-[492px] lg:w-[572px] xl:w-[668px] mt-[66px] ml-auto mb-[49px] min-h-[538px] sm:mt-[-68px] sm:ml-[calc(((100%-540px)/2))] sm:mb-[60px] md:min-h-[524px] md:-mt-[101px] md:ml-[calc(((100%-720px)/2))] lg:min-h-[532px] lg:-mt-[51px] lg:mb-[55px] lg:ml-[calc(((100%-940px)/2))] h-auto xl:min-h-[526px] xl:-mt-[175px] xl:mb-[60px] xl:ml-[calc(((100%-1140px)/2))] mr-auto bg-[#292d33] flex">
-          <div className="pr-2.5 pl-0 md:px-[30px] lg:px-[50px] py-[30px] flex flex-col justify-center flex-1">
+        <div className="relative w-[340px] sm:w-[418px] md:w-[492px] lg:w-[572px] xl:w-[668px] mt-[66px] ml-auto mb-[49px] min-h-[538px] sm:mt-[-68px] sm:ml-[calc(((100%-540px)/2))] sm:mb-[60px] md:min-h-[524px] md:-mt-[101px] md:ml-[calc(((100%-720px)/2))] lg:min-h-[532px] lg:-mt-[51px] lg:mb-[55px] lg:ml-[calc(((100%-940px)/2))] h-auto xl:min-h-[526px] xl:-mt-[175px] xl:mb-[60px] xl:ml-[calc(((100%-1140px)/2))] mr-auto bg-[#292d33] flex sm:shadow-[0_0_10px_10px_rgba(0,0,0,.2)]">
+          <div className="px-2.5 md:px-[30px] lg:px-[50px] py-[30px] flex flex-col justify-center flex-1">
             <h2 className="text-[40px] mr-0 md:text-5xl lg:text-6xl xl:text-[65px] sm:mr-[3px] font-semibold font-[Ubuntu]">
               {t("gotProject.title1")}
               <br />
@@ -142,7 +142,7 @@ const Service = () => {
           alt="image5"
           src={image5}
         />
-        <div className="relative flex w-[340px] sm:w-[436px] md:w-[581px] xl:w-[629px] mt-9 sm:-mt-16 md:-mt-[75px] lg:-mt-32 xl:-mt-[215px] ml-[calc(((100%-340px)/2))] sm:ml-[calc(((100%-540px)/2))] md:ml-[calc(((100%-720px)/2))] lg:ml-[calc(((100%-940px)/2))] xl:ml-[calc(((100%-1140px)/2))] mb-[60px] mr-auto bg-white text-[#111]">
+        <div className="relative flex w-[340px] sm:w-[436px] md:w-[581px] xl:w-[629px] mt-9 sm:-mt-16 md:-mt-[75px] lg:-mt-32 xl:-mt-[215px] ml-[calc(((100%-340px)/2))] sm:ml-[calc(((100%-540px)/2))] md:ml-[calc(((100%-720px)/2))] lg:ml-[calc(((100%-940px)/2))] xl:ml-[calc(((100%-1140px)/2))] mb-[60px] mr-auto bg-white text-[#111] shadow-[0_0_10px_10px_rgba(0,0,0,.2)]">
           <div className="px-5 md:px-[30px] lg:px-[45px] py-[30px] flex flex-col justify-center flex-1">
             <h3 className="text-4xl sm:text-[55px] xl:text-6xl font-bold capitalize">
               {t("service.section5.title")}

@@ -18,6 +18,7 @@ const Footer = () => {
                   <img src={logo} alt="logo" />
                 </Link>
               </ArchorLink>
+              <p className="mt-3 text-[#b3b3b3]">{t("footer.description")}</p>
               <div className="flex justify-between items-center h-10 w-[200px] mt-2.5">
                 <Link
                   className="h-full"
@@ -160,7 +161,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex-[0_0_23%] xl:flex-[0_0_20%] min-w-full md:min-w-[23%] xl:min-w-[20%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
-              <p className="text-3xl font-bold">{t("footer.ouickLinks")}</p>
+              <p className="text-3xl font-bold">{t("footer.quickLinks")}</p>
               <p className="text-xl mt-5">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link className="text-[#999]" to="/" title={t("nav.home")}>
@@ -168,7 +169,7 @@ const Footer = () => {
                   </Link>
                 </ArchorLink>
               </p>
-              <p className="text-xl">
+              <p className="text-xl mt-3">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link
                     className="text-[#999]"
@@ -179,7 +180,7 @@ const Footer = () => {
                   </Link>
                 </ArchorLink>
               </p>
-              <p className="text-xl">
+              <p className="text-xl mt-3">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link
                     className="text-[#999]"
@@ -204,7 +205,7 @@ const Footer = () => {
                   </Link>
                 </ArchorLink>
               </p>
-              <p className="text-xl">
+              <p className="text-xl mt-3">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link
                     className="text-[#999]"
@@ -215,7 +216,7 @@ const Footer = () => {
                   </Link>
                 </ArchorLink>
               </p>
-              <p className="text-xl">
+              <p className="text-xl mt-3">
                 <ArchorLink to="header" smooth={true} duration={500}>
                   <Link
                     className="text-[#999]"

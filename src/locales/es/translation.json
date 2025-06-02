@@ -75,7 +75,7 @@
     },
     "section5": {
       "title": "Lo que hacemos",
-      "description": "Ofrecemos servicios de TI administrados y servicios de ciberseguridad para ayudar a las organizaciones a reducir los costos de TI y el tiempo de inactividad, aumentar la eficiencia hasta en un 40%y proteger contra los ataques cibernéticos."
+      "description": "Ofrecemos servicios de TI administrados y servicios de ciberseguridad para ayudar a las organizaciones a reducir los costos de TI y el tiempo de inactividad."
     },
     "section6": {
       "title": "Conocer a nuestro equipo"
@@ -232,16 +232,16 @@
       "description": "Nuestros consultores trabajan de manera altamente colaborativa para integrar y apoyar su liderazgo interno y procesos comerciales.",
       "projects": {
         "project1": {
-          "title": "Quien somos",
-          "description": "Texto de muestra. "
+          "title": "Transformación comercial",
+          "description": "Ayudamos a las organizaciones a redefinir sus estrategias, procesos y tecnologías para lograr transformaciones ágiles, escalables y basadas en datos que impulsan el crecimiento y la eficiencia operativa."
         },
         "project2": {
-          "title": "Nuestros valores",
-          "description": "Texto de muestra. "
+          "title": "Entrenamiento",
+          "description": "Nuestros programas de coaching potencian a los equipos y empleados de liderazgo para mejorar el rendimiento, adoptar la innovación y liderar con confianza en un panorama digital en rápida evolución."
         },
         "project3": {
-          "title": "Nuestra gente",
-          "description": "Texto de muestra. "
+          "title": "Estrategia de crecimiento",
+          "description": "Diseñamos estrategias de crecimiento basadas en datos que identifican nuevas oportunidades de mercado, mejoran el posicionamiento competitivo y aceleran la generación de ingresos."
         }
       }
     },
@@ -297,9 +297,9 @@
     }
   },
   "footer": {
-    "description": "Texto de muestra. ",
+    "description": "Ya sea que necesite subcontratar su proyecto o contratar profesionales tecnológicos cualificados, EQ TECH Solutions puede ayudarle.",
     "getInTouch": "Ponerse en contacto",
-    "ouickLinks": "Enlaces ouick",
+    "quickLinks": "Enlaces rápidos",
     "support": "Apoyo"
   },
   "gotProject": {
@@ -317,5 +317,11 @@
   },
   "contactus": "Contáctenos",
   "more": "más",
-  "learnmore":"Más información"
+  "learnmore": "Más información",
+  "language": {
+    "en": "Inglés",
+    "es": "Español",
+    "de": "Alemana",
+    "fr": "Francés"
+  }
 }

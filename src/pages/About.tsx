@@ -16,18 +16,18 @@ const About = () => {
   const projects = [
     {
       image: image2,
-      title: t("portfolio.section3.projects.project1.title"),
-      description: t("portfolio.section3.projects.project1.description"),
+      title: t("about.section2.projects.project1.title"),
+      description: t("about.section2.projects.project1.description"),
     },
     {
       image: image3,
-      title: t("portfolio.section3.projects.project2.title"),
-      description: t("portfolio.section3.projects.project2.description"),
+      title: t("about.section2.projects.project2.title"),
+      description: t("about.section2.projects.project2.description"),
     },
     {
       image: image4,
-      title: t("portfolio.section3.projects.project3.title"),
-      description: t("portfolio.section3.projects.project3.description"),
+      title: t("about.section2.projects.project3.title"),
+      description: t("about.section2.projects.project3.description"),
     },
   ];
 
@@ -220,7 +220,7 @@ const About = () => {
             alt="image1"
             className="relative w-[340px] sm:w-[540px] md:w-[572px] lg:w-[800px] xl:w-[1016px] h-[242px] sm:h-[385px] md:h-[408px] lg:h-[626px] xl:h-[677px] -mt-[141px] sm:-mt-[479px] lg:-mt-[566px] mx-auto object-cover"
           />
-          <div className="relative flex mt-[88px] -mb-[130px] mx-0 sm:-mt-11 sm:ml-[76px] sm:mr-auto sm:-mb-[152px] md:-mt-[67px] md:ml-[119px] lg:-mt-[170px] lg:mr-[143px] lg:-mb-[382px] lg:ml-auto xl:m-[-244px_119px_60px_auto] w-full sm:w-[464px] min-h-[505px] lg:min-h-[470px] bg-white">
+          <div className="relative flex mt-[88px] -mb-[130px] mx-0 sm:-mt-11 sm:ml-[76px] sm:mr-auto sm:-mb-[152px] md:-mt-[67px] md:ml-[119px] lg:-mt-[170px] lg:mr-[143px] lg:-mb-[382px] lg:ml-auto xl:m-[-244px_119px_60px_auto] w-full sm:w-[464px] min-h-[505px] lg:min-h-[470px] bg-white sm:shadow-[0_0_10px_10px_rgba(0,0,0,.2)]">
             <div className="flex flex-col justify-center px-2.5 sm:px-[30px] py-[30px]">
               <h3 className="text-4xl text-[#eb6928] font-bold font-[Ubuntu]">
                 {t("about.section4.title")}
@@ -282,7 +282,7 @@ const About = () => {
               </h3>
               <p className="text-xl mt-10">{t("about.section6.description")}</p>
               <Button className="mt-5 mr-auto" to="contact">
-                {t('learnmore')}
+                learn more
               </Button>
             </div>
           </div>

@@ -232,16 +232,16 @@
       "description": "Our consultants work in a highly collaborative manner to integrate and support your internal leadership and business processes.",
       "projects": {
         "project1": {
-          "title": "Who we are",
-          "description": "Sample text. Click to select the Text Element."
+          "title": "Business Transformation",
+          "description": "We help organizations redefine their strategies, processes, and technologies to achieve agile, scalable, and data-driven transformations that drive growth and operational efficiency."
         },
         "project2": {
-          "title": "Our values",
-          "description": "Sample text. Click to select the Text Element."
+          "title": "Coaching",
+          "description": "Our coaching programs empower leadership teams and employees to enhance performance, embrace innovation, and lead with confidence in a rapidly evolving digital landscape."
         },
         "project3": {
-          "title": "Our people",
-          "description": "Sample text. Click to select the Text Element."
+          "title": "Growth Strateg",
+          "description": "We design data-informed growth strategies that identify new market opportunities, improve competitive positioning, and accelerate revenue generation."
         }
       }
     },
@@ -297,9 +297,9 @@
     }
   },
   "footer": {
-    "description": "Sample text. Click to select the Text Element.",
+    "description": "Whether you need to outsource your project or hire skilled technology professionals, EQ TECH Solutions can help.",
     "getInTouch": "Get in touch",
-    "ouickLinks": "Ouick links",
+    "quickLinks": "Quick links",
     "support": "Support"
   },
   "gotProject": {
@@ -317,5 +317,11 @@
   },
   "contactus": "contact us",
   "more": "more",
-  "learnmore": "Learn more"
+  "learnmore": "Learn more",
+  "language": {
+    "en": "English",
+    "es": "Spanish",
+    "de": "Dutch",
+    "fr": "French"
+  }
 }

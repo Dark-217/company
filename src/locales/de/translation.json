@@ -75,7 +75,7 @@
     },
     "section5": {
       "title": "Was wir tun",
-      "description": "Wir bieten verwaltete IT -Dienste und Cybersicherheitsdienste an, um Unternehmen bei der Reduzierung der IT -Kosten und der Ausfallzeit zu helfen, die Effizienz um bis zu 40%zu steigern und vor Cyberangriffen zu schützen."
+      "description": "Wir bieten verwaltete IT-Dienste und Cybersicherheitsdienste an, um Unternehmen dabei zu helfen, IT-Kosten und Ausfallzeiten zu reduzieren und sich vor Cyberangriffen zu schützen."
     },
     "section6": {
       "title": "Treffen Sie unser Team"
@@ -297,9 +297,9 @@
     }
   },
   "footer": {
-    "description": "Beispieltext. ",
+    "description": "Unabhängig davon, ob Sie Ihr Projekt auslagern oder qualifizierte Technologiefachleute einstellen müssen, können EQ Tech -Lösungen helfen.",
     "getInTouch": "Sich in Verbindung setzen",
-    "ouickLinks": "Ouick -Links",
+    "quickLinks": "Schnelle Links",
     "support": "Unterstützung"
   },
   "gotProject": {
@@ -317,5 +317,11 @@
   },
   "contactus": "Kontaktieren Sie uns",
   "more": "mehr",
-  "learnmore": "Meer informatie"
+  "learnmore": "Erfahren Sie mehr",
+  "language": {
+    "en": "Engels",
+    "es": "Spaans",
+    "de": "Deutsch",
+    "fr": "Frans"
+  }
 }

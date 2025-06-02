@@ -321,7 +321,7 @@ const Home = () => {
                     <div className="flex-[30_0_auto] flex">
                       <div className="flex-[1_1_auto] flex flex-wrap">
                         <div className="min-w-full md:min-w-1/2 max-w-1/2 min-h-[100px] lg:min-h-[258px] xl:min-h-[313px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
-                          <div className="pr-2.5 md:pr-0 lg:pr-5 py-8 lg:py-0 xl:py-6">
+                          <div className="px-2.5 md:pr-0 lg:px-5 py-8 lg:py-0 xl:py-6 bg-[#e5e5e5]">
                             <h3 className="text-2xl sm:text-4xl md:text-2xl uppercase tracking-[1px] mt-7 font-bold">
                               {t("home.section5.title")}
                             </h3>
