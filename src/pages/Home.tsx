@@ -287,9 +287,9 @@ const Home = () => {
         <div className="relative w-[227px] xl:w-[296px] h-[424px] sm:h-[455px] md:h-[482px] lg:h-[481px] xl:h-[516px] -mt-[50px] sm:-mt-[135px] md:-mt-[193px] lg:-mt-[200px] xl:-mt-[286px] ml-[calc(((100%-340px)/2))] sm:ml-[calc(((100%-540px)/2)+43px)] md:ml-[calc(((100%-720px)/2)+133px)] lg:ml-[calc(((100%-940px)/2)+344px)] xl:ml-auto mr-auto xl:mr-[calc(((100%-1140px)/2)+369px)] bg-[#eb6928]"></div>
         <div className="relative w-[308px] sm:w-[455px] md:w-[522px] xl:w-[610px] min-h-[291px] sm:min-h-[349px] md:min-h-[355px] xl:min-h-[390px] -mt-[375px] sm:-mt-[402px] md:-mt-[418px] xl:-mt-[453px] mr-[calc(((100%-340px)/2))] sm:mr-[calc(((100%-540px)/2))] md:mr-[calc(((100%-720px)/2))] lg:mr-[calc(((100%-940px)/2))] xl:mr-[calc(((100%-1140px)/2))] mb-[93px] sm:mb-[42px] md:mb-[60px] ml-auto bg-[#292d33] text-white shadow-[5px_5px_20px_0_rgba(0,0,0,.4)]">
           <div className="px-5 sm:px-8 py-8 leading-[25.6px]">
-            <h5 className="m-0 sm:mt-2.5 sm:mr-px font-light uppercase tracking-[4px] text-xl leading-6">
+            <h4 className="m-0 sm:mt-2.5 sm:mr-px font-light uppercase tracking-[4px] text-xl leading-6">
               {t("home.section3.caption")}
-            </h5>
+            </h4>
             <h3 className="mt-7 md:mt-6 xl:mt-5 mx-0 sm:mr-px md:mr-0 sm:ml-px text-4xl sm:text-[3.4375rem] xl:text-6xl font-[Ubuntu] font-bold capitalize">
               {t("home.section3.title")}
             </h3>
