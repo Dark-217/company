@@ -19,6 +19,7 @@ const Member = ({ data }: MemberProps) => {
       <img
         src={data.avatar}
         className="w-[238px] h-[238px] lg:w-[168px] lg:h-[168px] xl:w-[210px] xl:h-[210px] mx-auto rounded-full border-[7px] border-[#eb6928] object-cover object-center"
+        alt="avatar"
       />
       <h4 className="text-2xl font-bold mt-5 font-[Ubuntu] capitalize">
         {data.name}

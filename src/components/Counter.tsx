@@ -14,9 +14,9 @@ const Counter = ({ title, count }: CounterProps) => {
             </h3>
           </div>
         </div>
-        <h5 className="relative text-xl md:text-lg uppercase mt-8 m-auto font-[Ubuntu]">
+        <h4 className="relative text-xl md:text-lg uppercase mt-8 m-auto font-[Ubuntu]">
           {title}
-        </h5>
+        </h4>
       </div>
     </div>
   );

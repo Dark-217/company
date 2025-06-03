@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
-import { Link, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
-import logo from "../assets/images/logo.png";
+import Link from "../components/Link";
+import logo from "../assets/images/logo.webp";
 
 const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -36,9 +37,12 @@ const Header = () => {
   }, [i18n.language]);
 
   return (
-    <header className="text-[#111] bg-white" id="header">
+    <header
+      className="sticky top-0 z-50 text-[#111] bg-white shadow-xl"
+      id="header"
+    >
       <div className="flex justify-between items-center w-[340px] sm:w-[540px] md:w-[720px] lg:w-[940px] xl:w-[1140px] m-auto min-h-20">
-        <Link to="/" className="w-40">
+        <Link className="w-40" to="/">
           <img src={logo} alt="logo" />
         </Link>
         <div className="flex gap-5">

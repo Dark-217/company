@@ -7,9 +7,9 @@ const WorkBlock = ({ title, data }: WorkBlockProps) => {
   return (
     <div className="relative">
       <div className="px-8 sm:px-4 md:px-5 py-5 before:absolute before:top-0 before:right-0 before:bottom-0 before:left-0 before:bg-black before:opacity-60">
-        <h4 className="relative font-medium text-[#eb6928] font-[Ubuntu] capitalize text-2xl">
+        <h3 className="relative font-medium text-[#eb6928] font-[Ubuntu] capitalize text-2xl">
           {title}
-        </h4>
+        </h3>
         <ul className="relative text-lg xl:text-xl xl:leading-10 mt-5">
           {data.map((item, index) => (
             <li key={index} className="relative ml-[1.1em]">

@@ -3,11 +3,11 @@ import Button from "../components/Button";
 import SolutionBlock from "../components/SolutionBlock";
 import Offer from "../components/Offer";
 import ServiceCounter from "../components/ServiceCounter";
-import image1 from "../assets/images/service/image1.jpg";
-import image2 from "../assets/images/service/image2.png";
-import image3 from "../assets/images/service/image3.png";
-import image4 from "../assets/images/service/image4.png";
-import image5 from "../assets/images/service/image5.jpg";
+import image1 from "../assets/images/service/image1.webp";
+import image2 from "../assets/images/service/image2.webp";
+import image3 from "../assets/images/service/image3.webp";
+import image4 from "../assets/images/service/image4.webp";
+import image5 from "../assets/images/service/image5.webp";
 import FindUs from "../components/FindUs";
 
 const Service = () => {

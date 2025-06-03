@@ -21,10 +21,11 @@ const MeetTeam = ({ person }: MeetTeamProps) => {
         <img
           src={person.avatar}
           className={`w-48 h-48 md:max-lg:w-40 md:max-lg:h-40 object-cover m-auto rounded-full border-[#f7c0a5] border-4`}
+          alt="avatar"
         />
-        <h4 className="text-xl xl:text-2xl m-auto mt-12 font-[Ubuntu]">
+        <h3 className="text-xl xl:text-2xl m-auto mt-12 font-[Ubuntu]">
           {person.name}
-        </h4>
+        </h3>
         <p className="italic mt-8">{person.info}</p>
         <p className="m-auto mt-3 font-bold">{person.role}</p>
         <div className="flex justify-between items-center min-w-fit h-8 min-h-4 w-36 m-auto mt-8">

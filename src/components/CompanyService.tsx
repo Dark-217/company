@@ -18,9 +18,9 @@ const CompanyService = ({ icon, title, children }: CompanyServiceProps) => {
           {icon}
         </span>
         <div className="sm:min-h-[300px] md:min-h-[220px] lg:min-h-[330px] xl:min-h-[270px]">
-          <h5 className="text-[#eb6928] text-xl font-[Ubuntu] font-bold capitalize mt-5">
+          <h3 className="text-[#eb6928] text-xl font-[Ubuntu] font-bold capitalize mt-5">
             {title}
-          </h5>
+          </h3>
           <p className="text-[#999] text-xl leading-8 mt-5">{children}</p>
         </div>
         <ArchorLink

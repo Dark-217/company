@@ -48,7 +48,9 @@ const CareerItem = ({ data, active, onClick }: CareerItemProps) => {
             <div key={index} className="flex flex-wrap">
               <div className="min-w-full md:min-w-1/2 max-w-1/2">
                 <p className="font-bold">
-                  <Link to={job.url}>{job.title}</Link>
+                  <Link to={job.url} target="_blank">
+                    {job.title}
+                  </Link>
                 </p>
               </div>
               <div className="min-w-full md:min-w-1/2 max-w-1/2">

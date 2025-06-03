@@ -1,8 +1,7 @@
-import { Link } from "react-router-dom";
-import { Link as ArchorLink } from "react-scroll";
 import { useTranslation } from "react-i18next";
-import logo from "../assets/images/logo.png";
-import email from "../assets/images/email.png";
+import Link from "../components/Link";
+import logo from "../assets/images/logo.webp";
+import email from "../assets/images/email.webp";
 
 const Footer = () => {
   const { t } = useTranslation();
@@ -13,11 +12,9 @@ const Footer = () => {
         <div className="my-[60px] flex-1">
           <div className="flex flex-wrap">
             <div className="flex-[0_0_30%] min-w-full md:min-w-[30%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
-              <ArchorLink to="header" smooth={true} duration={500}>
-                <Link to="/" className="block w-40">
-                  <img src={logo} alt="logo" />
-                </Link>
-              </ArchorLink>
+              <Link to="/" className="block w-40">
+                <img src={logo} alt="logo" />
+              </Link>
               <p className="mt-3 text-[#b3b3b3]">{t("footer.description")}</p>
               <div className="flex justify-between items-center h-10 w-[200px] mt-2.5">
                 <Link
@@ -111,7 +108,6 @@ const Footer = () => {
                 <Link
                   className="h-full"
                   target="_blank"
-                  data-type="Custom"
                   title="Custom"
                   to="https://linkedin.com/name"
                 >
@@ -163,69 +159,53 @@ const Footer = () => {
             <div className="flex-[0_0_23%] xl:flex-[0_0_20%] min-w-full md:min-w-[23%] xl:min-w-[20%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
               <p className="text-3xl font-bold">{t("footer.quickLinks")}</p>
               <p className="text-xl mt-5">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link className="text-[#999]" to="/" title={t("nav.home")}>
-                    {t("nav.home")}
-                  </Link>
-                </ArchorLink>
+                <Link className="text-[#999]" to="/" title={t("nav.home")}>
+                  {t("nav.home")}
+                </Link>
               </p>
               <p className="text-xl mt-3">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link
-                    className="text-[#999]"
-                    to="/service"
-                    title={t("nav.service")}
-                  >
-                    {t("nav.service")}
-                  </Link>
-                </ArchorLink>
+                <Link
+                  className="text-[#999]"
+                  to="/service"
+                  title={t("nav.service")}
+                >
+                  {t("nav.service")}
+                </Link>
               </p>
               <p className="text-xl mt-3">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link
-                    className="text-[#999]"
-                    to="/about"
-                    title={t("nav.about")}
-                  >
-                    {t("nav.about")}
-                  </Link>
-                </ArchorLink>
+                <Link
+                  className="text-[#999]"
+                  to="/about"
+                  title={t("nav.about")}
+                >
+                  {t("nav.about")}
+                </Link>
               </p>
             </div>
             <div className="flex-[0_0_18%] xl:flex-[0_0_20%] min-w-full md:min-w-[18%] xl:min-w-[20%] min-h-[100px] lg:min-h-[153px] xl:min-h-[186px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent">
               <p className="text-3xl font-bold">{t("footer.support")}</p>
               <p className="text-xl mt-5">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link
-                    className="text-[#999]"
-                    to="/team"
-                    title={t("nav.team")}
-                  >
-                    {t("nav.team")}
-                  </Link>
-                </ArchorLink>
+                <Link className="text-[#999]" to="/team" title={t("nav.team")}>
+                  {t("nav.team")}
+                </Link>
               </p>
               <p className="text-xl mt-3">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link
-                    className="text-[#999]"
-                    to="/portfolio"
-                    title={t("nav.portfolio")}
-                  >
-                    {t("nav.portfolio")}
-                  </Link>
-                </ArchorLink>
+                <Link
+                  className="text-[#999]"
+                  to="/portfolio"
+                  title={t("nav.portfolio")}
+                >
+                  {t("nav.portfolio")}
+                </Link>
               </p>
               <p className="text-xl mt-3">
-                <ArchorLink to="header" smooth={true} duration={500}>
-                  <Link
-                    className="text-[#999]"
-                    to="/career"
-                    title={t("nav.career")}
-                  >
-                    {t("nav.career")}
-                  </Link>
-                </ArchorLink>
+                <Link
+                  className="text-[#999]"
+                  to="/career"
+                  title={t("nav.career")}
+                >
+                  {t("nav.career")}
+                </Link>
               </p>
             </div>
           </div>

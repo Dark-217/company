@@ -1,16 +1,16 @@
 import { useTranslation } from "react-i18next";
 import Button from "../components/Button";
 import Member from "../components/Member";
-import image1 from "../assets/images/team/image1.jpg";
-import image2 from "../assets/images/team/image2.jpg";
-import image3 from "../assets/images/team/image3.png";
+import image1 from "../assets/images/team/image1.webp";
+import image2 from "../assets/images/team/image2.webp";
+import image3 from "../assets/images/team/image3.webp";
 
 const Team = () => {
   const { t } = useTranslation();
 
   const members = [
     {
-      avatar: "images/team/avatar1.jpg",
+      avatar: "images/team/avatar1.webp",
       name: "Jeffrey Brown",
       role: "Worldwide Partner",
       social: {
@@ -20,7 +20,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar2.jpg",
+      avatar: "images/team/avatar2.webp",
       name: "Ann Richmond",
       role: "Creative Leader",
       social: {
@@ -30,7 +30,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar3.jpg",
+      avatar: "images/team/avatar3.webp",
       name: "Jennie Roberts",
       role: "Chairman",
       social: {
@@ -40,7 +40,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar4.jpg",
+      avatar: "images/team/avatar4.webp",
       name: "Alex Greenfield",
       role: "Partner",
       social: {
@@ -50,7 +50,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar5.jpg",
+      avatar: "images/team/avatar5.webp",
       name: "Walter Lilly",
       role: "Partner",
       social: {
@@ -60,7 +60,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar6.jpg",
+      avatar: "images/team/avatar6.webp",
       name: "Monica Pouliot",
       role: "Associate Partner",
       social: {
@@ -70,7 +70,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar7.jpg",
+      avatar: "images/team/avatar7.webp",
       name: "Alex Green",
       role: "Associate Partner",
       social: {
@@ -80,7 +80,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar8.jpg",
+      avatar: "images/team/avatar8.webp",
       name: "Mila Parker",
       role: "Partner",
       social: {
@@ -90,7 +90,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar9.jpg",
+      avatar: "images/team/avatar9.webp",
       name: "James Oliver",
       role: "Partner",
       social: {
@@ -100,7 +100,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar10.jpg",
+      avatar: "images/team/avatar10.webp",
       name: "Steve Weaver",
       role: "Partner",
       social: {
@@ -110,7 +110,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar11.jpg",
+      avatar: "images/team/avatar11.webp",
       name: "Peter Howard",
       role: "Partner",
       social: {
@@ -120,7 +120,7 @@ const Team = () => {
       },
     },
     {
-      avatar: "images/team/avatar12.jpg",
+      avatar: "images/team/avatar12.webp",
       name: "Samuel Payne",
       role: "Partner",
       social: {
@@ -183,6 +183,7 @@ const Team = () => {
                       <img
                         className="h-[377px] sm:h-[601px] md:h-[747px] lg:h-[449px] xl:h-[559px] w-full object-cover object-center"
                         src={image2}
+                        alt="image2"
                       />
                       <h4 className="mt-[38px] font-[Ubuntu] capitalize text-2xl font-bold">
                         {t("team.section4.title")}
@@ -198,7 +199,11 @@ const Team = () => {
                     <div className="my-[15px] flex-[30_0_auto] bg-[#e5e5e5] text-[#111]">
                       <div className="px-4 md:px-[30px] py-[30px] flex flex-col justify-center">
                         <span className="block w-16 h-16 mr-auto">
-                          <img src={image3} className="object-contain w-full" />
+                          <img
+                            src={image3}
+                            className="object-contain w-full"
+                            alt="image3"
+                          />
                         </span>
                         <p className="text-2xl leading-11 mt-5">
                           {t("team.section4.comment")}

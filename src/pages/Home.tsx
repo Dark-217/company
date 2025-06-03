@@ -4,8 +4,8 @@ import { useTranslation } from "react-i18next";
 import WorkBlock from "../components/WorkBlock";
 import MeetTeam from "../components/MeetTeam";
 import Counter from "../components/Counter";
-import image1 from "../assets/images/home/image1.jpg";
-import image8 from "../assets/images/home/image8.jpg";
+import image1 from "../assets/images/home/image1.webp";
+import image8 from "../assets/images/home/image8.webp";
 
 const Home = () => {
   const { t } = useTranslation();
@@ -184,7 +184,7 @@ const Home = () => {
 
   const meetTeams = [
     {
-      avatar: "images/home/person1.jpg",
+      avatar: "images/home/person1.webp",
       name: "Alex Smith",
       info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
       role: "Creative Leader",
@@ -195,7 +195,7 @@ const Home = () => {
       },
     },
     {
-      avatar: "images/home/person2.jpg",
+      avatar: "images/home/person2.webp",
       name: "May Brown",
       info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
       role: "Sales Manager",
@@ -206,7 +206,7 @@ const Home = () => {
       },
     },
     {
-      avatar: "images/home/person3.jpg",
+      avatar: "images/home/person3.webp",
       name: "Ann Richmond",
       info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
       role: "Web Developer",
@@ -217,7 +217,7 @@ const Home = () => {
       },
     },
     {
-      avatar: "images/home/person4.jpg",
+      avatar: "images/home/person4.webp",
       name: "Roxie Swanson",
       info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
       role: "Web Designer",
@@ -238,7 +238,7 @@ const Home = () => {
 
   return (
     <>
-      <section className="bg-[url(/images/home/landing.jpg)] bg-cover bg-no-repeat bg-position-(---landing-bg-xs-position) sm:bg-position-(---landing-bg-sm-position) md:bg-center text-[#111]">
+      <section className="bg-[url(/images/home/landing.webp)] bg-cover bg-no-repeat bg-position-(---landing-bg-xs-position) sm:bg-position-(---landing-bg-sm-position) md:bg-center text-[#111]">
         <div className="flex flex-col justify-center w-[340px] sm:w-[540px] md:w-[720px] lg:w-[940px] xl:w-[1140px] min-h-[567px] sm:min-h-[623px] lg:min-h-[689px] xl:min-h-[835px] m-auto">
           <div className="flex w-56 sm:w-xs md:w-sm lg:w-md xl:w-lg min-h-[497px] sm:min-h-[503px] lg:min-h-[538px] bg-white my-9 sm:my-16 text-left">
             <div className="flex-1 flex flex-col justify-center px-5 md:px-8 lg:px-10 xl:px-11 py-8">
@@ -282,7 +282,7 @@ const Home = () => {
         <img
           src={image1}
           alt="image1"
-          className="relative max-w-none w-[340px] sm:w-[540px] md:w-[598px] h-[348px] sm:h-[535px] md:h-[593px] -mt-[298px] sm:-mt-[400px] lg:-mt-[427px] xl:-mt-[418px] ml-auto sm:ml-[calc(((100%-540px)/2))] md:ml-[calc(((100%-720px)/2))] lg:ml-[calc(((100%-940px)/2)+124px)] xl:ml-[calc(((100%-1140px)/2)+119px] mr-auto"
+          className="relative max-w-none w-[340px] sm:w-[540px] md:w-[598px] h-[348px] sm:h-[535px] md:h-[593px] -mt-[298px] sm:-mt-[400px] lg:-mt-[427px] xl:-mt-[418px] ml-auto sm:ml-[calc(((100%-540px)/2))] md:ml-[calc(((100%-720px)/2))] lg:ml-[calc(((100%-940px)/2)+124px)] xl:ml-[calc(((100%-1140px)/2)+119px] mr-auto object-cover"
         />
         <div className="relative w-[227px] xl:w-[296px] h-[424px] sm:h-[455px] md:h-[482px] lg:h-[481px] xl:h-[516px] -mt-[50px] sm:-mt-[135px] md:-mt-[193px] lg:-mt-[200px] xl:-mt-[286px] ml-[calc(((100%-340px)/2))] sm:ml-[calc(((100%-540px)/2)+43px)] md:ml-[calc(((100%-720px)/2)+133px)] lg:ml-[calc(((100%-940px)/2)+344px)] xl:ml-auto mr-auto xl:mr-[calc(((100%-1140px)/2)+369px)] bg-[#eb6928]"></div>
         <div className="relative w-[308px] sm:w-[455px] md:w-[522px] xl:w-[610px] min-h-[291px] sm:min-h-[349px] md:min-h-[355px] xl:min-h-[390px] -mt-[375px] sm:-mt-[402px] md:-mt-[418px] xl:-mt-[453px] mr-[calc(((100%-340px)/2))] sm:mr-[calc(((100%-540px)/2))] md:mr-[calc(((100%-720px)/2))] lg:mr-[calc(((100%-940px)/2))] xl:mr-[calc(((100%-1140px)/2))] mb-[93px] sm:mb-[42px] md:mb-[60px] ml-auto bg-[#292d33] text-white shadow-[5px_5px_20px_0_rgba(0,0,0,.4)]">
@@ -330,20 +330,20 @@ const Home = () => {
                             </p>
                           </div>
                         </div>
-                        <div className="bg-[url(/images/home/image3.jpg)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[338px] sm:min-h-[537px] md:min-h-[358px] lg:min-h-[234px] xl:min-h-[284px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
+                        <div className="bg-[url(/images/home/image3.webp)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[338px] sm:min-h-[537px] md:min-h-[358px] lg:min-h-[234px] xl:min-h-[284px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
                       </div>
                     </div>
                     <div className="flex-[30_0_auto] flex">
                       <div className="flex-[1_1_auto] flex flex-wrap">
-                        <div className="bg-[url(/images/home/image4.jpg)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[343px] sm:min-h-[545px] md:min-h-[363px] lg:min-h-[237px] xl:min-h-[287px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
-                        <div className="bg-[url(/images/home/image5.jpg)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[343px] sm:min-h-[545px] md:min-h-[363px] lg:min-h-[237px] xl:min-h-[287px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
+                        <div className="bg-[url(/images/home/image4.webp)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[343px] sm:min-h-[545px] md:min-h-[363px] lg:min-h-[237px] xl:min-h-[287px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
+                        <div className="bg-[url(/images/home/image5.webp)] bg-cover bg-no-repeat bg-center min-w-full md:min-w-1/2 max-w-1/2 min-h-[343px] sm:min-h-[545px] md:min-h-[363px] lg:min-h-[237px] xl:min-h-[287px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="flex-[0_0_50%] flex min-w-full lg:min-w-1/2">
                   <div className="flex-[1_1_auto] flex flex-col">
-                    <div className="flex-[60_0_auto] bg-[url(/images/home/image6.jpg)] bg-cover bg-no-repeat bg-center max-w-full min-h-[341px] sm:min-h-[542px] md:min-h-[722px] lg:min-h-[471px] xl:min-h-[571px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
+                    <div className="flex-[60_0_auto] bg-[url(/images/home/image6.webp)] bg-cover bg-no-repeat bg-center max-w-full min-h-[341px] sm:min-h-[542px] md:min-h-[722px] lg:min-h-[471px] xl:min-h-[571px] border-x-0 md:border-x-[15px] border-y-[15px] border-transparent bg-clip-padding"></div>
                   </div>
                 </div>
               </div>

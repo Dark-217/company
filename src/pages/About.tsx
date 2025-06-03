@@ -2,13 +2,13 @@ import { useTranslation } from "react-i18next";
 import Button from "../components/Button";
 import Project from "../components/Project";
 import AboutService from "../components/AboutService";
-import image1 from "../assets/images/about/image1.jpg";
-import image2 from "../assets/images/portfolio/image2.jpg";
-import image3 from "../assets/images/portfolio/image3.jpg";
-import image4 from "../assets/images/portfolio/image4.jpg";
-import image5 from "../assets/images/about/image5.jpg";
-import image6 from "../assets/images/about/image6.png";
-import image7 from "../assets/images/about/image7.jpg";
+import image1 from "../assets/images/about/image1.webp";
+import image2 from "../assets/images/portfolio/image2.webp";
+import image3 from "../assets/images/portfolio/image3.webp";
+import image4 from "../assets/images/portfolio/image4.webp";
+import image5 from "../assets/images/about/image5.webp";
+import image6 from "../assets/images/about/image6.webp";
+import image7 from "../assets/images/about/image7.webp";
 
 const About = () => {
   const { t } = useTranslation();
@@ -176,7 +176,7 @@ const About = () => {
                 </Button>
               </div>
             </div>
-            <div className="bg-[url(/images/about/image1.jpg)] bg-position-(--about-bg-position) bg-cover bg-no-repeat min-w-full md:min-w-[58%] max-w-[58%] min-h-[349px] sm:min-h-[554px] md:min-h-[406px] lg:min-h-[530px] xl:min-h-[657px]"></div>
+            <div className="bg-[url(/images/about/image2.webp)] bg-position-(--about-bg-position) bg-cover bg-no-repeat min-w-full md:min-w-[58%] max-w-[58%] min-h-[349px] sm:min-h-[554px] md:min-h-[406px] lg:min-h-[530px] xl:min-h-[657px]"></div>
           </div>
         </div>
       </section>

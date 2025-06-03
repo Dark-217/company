@@ -17,9 +17,9 @@ const Contact = () => {
           <div className="flex flex-wrap max-w-full min-h-fit">
             <div className="flex-[0_0_45%] xl:flex-[0_0_50%] max-w-[45%] xl:max-w-[50%] flex max-h-full min-w-full md:min-w-[45%] xl:min-w-[50%] min-h-[100px] lg:min-h-478px xl:min-h-[598px]">
               <div className="px-5 pb-[30px] sm:px-[50px] sm:pb-[50px] md:p-[30px] flex flex-col justify-center flex-1">
-                <h4 className="font-[Ubuntu] capitalize font-bold text-2xl">
+                <h2 className="font-[Ubuntu] capitalize font-bold text-2xl">
                   {t("contact.description")}
-                </h4>
+                </h2>
                 <p className="text-xl mt-7">
                   <span className="font-bold">{t("contact.label1")}: </span>
                   {t("contact.address")}
